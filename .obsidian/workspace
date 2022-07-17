@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "a78e630a82a2f935",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cd1b418337bf2ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React/React hooks/useEffect.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dddd1cf62e18984",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd47654d834fc09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d50d49243899ed7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "691b6694d7a618da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#react-hooks",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d549b48ca33b343d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "3ab55a4aa4f5f8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "b663cea8a8388d98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d05b24d1e607dd73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React/React hooks/useEffect.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "962d103c77215137",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5618f1535acf1e4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React/React hooks/useEffect.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd0e0d5c30437ebc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React/React hooks/useEffect.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4cd1b418337bf2ff",
+  "lastOpenFiles": [
+    "React/React hooks/useState.md",
+    "React/React hooks/useEffect.md",
+    "React/React hooks/React hooks.md",
+    "React/React.md",
+    "React/React libraries/React Router Dom.md",
+    "React/React libraries/React libraries.md",
+    "React/React libraries/BrowserRouter.jpg.md",
+    "Files/BrowserRouter.jpg",
+    "JS/JS.md",
+    "2022-07-16.md"
+  ]
+}
