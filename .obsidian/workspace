@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/React hooks/useState.md",
+            "file": "JS/Ассоциативный массив.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#react-hooks",
+                "query": "tag:#js",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React hooks/useState.md",
+                "file": "JS/Ассоциативный массив.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React hooks/useState.md",
+                "file": "JS/Ассоциативный массив.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React hooks/useState.md"
+                "file": "JS/Ассоциативный массив.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "JS/JS methods/Arrays.md",
+    "Files/JS-methods.jpg",
+    "JS/JS methods/concat().md",
+    "Files/BrowserRouter.PNG",
+    "JS/JS methods/filter().md",
+    "JS/JS methods/slice().md",
+    "JS/JS methods/map().md",
+    "JS/JS methods/().md",
     "React/React hooks/useEffect.md",
-    "React/React hooks/useState.md",
-    "React/React hooks/React hooks.md",
-    "React/React.md",
-    "React/React libraries/React Router Dom.md",
-    "React/React libraries/React libraries.md",
-    "React/React libraries/BrowserRouter.jpg.md",
-    "Files/BrowserRouter.jpg",
-    "JS/JS.md",
-    "2022-07-16.md"
+    "React/React hooks/React hooks.md"
   ]
 }
