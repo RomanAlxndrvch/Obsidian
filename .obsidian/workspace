@@ -7,12 +7,8 @@
         "id": "4cd1b418337bf2ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JS/Ассоциативный массив.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 218.5,
+    "collapsed": true
   },
   "right": {
     "id": "3ab55a4aa4f5f8ac",
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Ассоциативный массив.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Ассоциативный массив.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/Ассоциативный массив.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -131,15 +124,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "2022-07-17.md",
+    "React/React libraries/Story book.md",
+    "React/React libraries/React Router Dom.md",
+    "JS/Ассоциативный массив.md",
+    "React/React hooks/useEffect.md",
+    "JS/JS methods/map().md",
+    "React/React hooks/React hooks.md",
     "JS/JS methods/Arrays.md",
     "Files/JS-methods.jpg",
-    "JS/JS methods/concat().md",
-    "Files/BrowserRouter.PNG",
-    "JS/JS methods/filter().md",
-    "JS/JS methods/slice().md",
-    "JS/JS methods/map().md",
-    "JS/JS methods/().md",
-    "React/React hooks/useEffect.md",
-    "React/React hooks/React hooks.md"
+    "Files/Ассоциативный массив.png"
   ]
 }
