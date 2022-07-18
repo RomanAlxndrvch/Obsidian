@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5,
+    "width": 283.5,
     "collapsed": true
   },
   "right": {
@@ -113,9 +113,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "daf5cb66b633d1b9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -124,15 +132,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/Controlled input, checkbox, select.md",
+    "Files/Controlled checkbox.png",
+    "Templates/React template.md",
+    "React/React.md",
+    "React/React hooks/React hooks.md",
+    "Templates/React-hooks template.md",
+    "React/React hooks/useRef.md",
     "React/React libraries/Story book.md",
     "JS/JS methods/map().md",
-    "Files/JS-methods.jpg",
-    "JS/JS methods/Arrays.md",
-    "Без названия.md",
-    "Templates/react-hooks template.md",
-    "React/React libraries/React libraries.md",
-    "Templates/React library template.md",
-    "React/React hooks/useRef.md",
-    "React/React libraries/React Router Dom.md"
+    "Files/JS-methods.jpg"
   ]
 }
