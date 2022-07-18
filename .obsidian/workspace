@@ -124,15 +124,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
-    "2022-07-17.md",
     "React/React libraries/Story book.md",
-    "React/React libraries/React Router Dom.md",
-    "JS/Ассоциативный массив.md",
-    "React/React hooks/useEffect.md",
     "JS/JS methods/map().md",
-    "React/React hooks/React hooks.md",
-    "JS/JS methods/Arrays.md",
     "Files/JS-methods.jpg",
-    "Files/Ассоциативный массив.png"
+    "JS/JS methods/Arrays.md",
+    "Без названия.md",
+    "Templates/react-hooks template.md",
+    "React/React libraries/React libraries.md",
+    "Templates/React library template.md",
+    "React/React hooks/useRef.md",
+    "React/React libraries/React Router Dom.md"
   ]
 }
