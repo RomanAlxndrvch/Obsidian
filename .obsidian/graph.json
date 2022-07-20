@@ -29,17 +29,31 @@
       }
     },
     {
-      "query": "tag:#js",
+      "query": "tag:#js-ts",
       "color": {
         "a": 1,
         "rgb": 15925135
       }
     },
     {
-      "query": "tag:#js-methods",
+      "query": "tag:#methods",
       "color": {
         "a": 1,
         "rgb": 16756224
+      }
+    },
+    {
+      "query": "tag:#info",
+      "color": {
+        "a": 1,
+        "rgb": 40171
+      }
+    },
+    {
+      "query": "tag:#фишки",
+      "color": {
+        "a": 1,
+        "rgb": 11010048
       }
     }
   ],
@@ -53,6 +67,6 @@
   "repelStrength": 14.5833333333333,
   "linkStrength": 1,
   "linkDistance": 124,
-  "scale": 0.7132754626224453,
+  "scale": 0.7132754626224471,
   "close": true
 }

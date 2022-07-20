@@ -7,12 +7,8 @@
         "id": "4cd1b418337bf2ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "React/React hooks/useRef.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#js",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "3ab55a4aa4f5f8ac",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React hooks/useRef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React hooks/useRef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/React hooks/useRef.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,15 +131,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
-    "React/React libraries/Story book.md",
-    "2022-07-18.md",
+    "JS-TS/Ассоциативный массив.md",
+    "JS-TS/Чистая функция.md",
+    "JS-TS/Копирования Обьектов и Массивов.md",
     "React/Controlled input, checkbox, select.md",
-    "Files/Controlled checkbox.png",
-    "Templates/React template.md",
-    "React/React.md",
-    "React/React hooks/React hooks.md",
+    "JS-TS/JS-TS.md",
+    "Templates/JS-TS template.md",
     "Templates/React-hooks template.md",
-    "React/React hooks/useRef.md",
-    "JS/JS methods/map().md"
+    "Templates/React template.md",
+    "Templates/React library template.md",
+    "JS-TS/JS-TS methods/map().md"
   ]
 }

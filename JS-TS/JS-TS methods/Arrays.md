@@ -1,4 +1,4 @@
-[[JS]] #js 
+[[JS-TS]] #js-ts 
 
 
 # ==Arrays==

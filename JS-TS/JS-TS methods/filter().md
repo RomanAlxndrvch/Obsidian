@@ -1,4 +1,4 @@
-[[Arrays]] #js-methods
+[[Arrays]] #methods 
 
 
 # Array.prototype.filter()

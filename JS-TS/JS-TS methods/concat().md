@@ -1,4 +1,4 @@
-[[Arrays]] #js-methods
+[[Arrays]] #methods
 
 # Array.prototype.concat()
 [Docomentation](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)

@@ -1,4 +1,4 @@
-#react [[React]]
+#фишки  [[React]]
 
 # ==Controlled input, checkbox, select==
 
