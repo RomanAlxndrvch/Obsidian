@@ -7,8 +7,12 @@
         "id": "4cd1b418337bf2ff",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "JS-TS/Копирования Обьектов и Массивов.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "3ab55a4aa4f5f8ac",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS-TS/Копирования Обьектов и Массивов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS-TS/Копирования Обьектов и Массивов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS-TS/Копирования Обьектов и Массивов.md"
+              }
             }
           },
           {
@@ -131,6 +140,7 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "2022-07-20.md",
     "JS-TS/Ассоциативный массив.md",
     "JS-TS/Чистая функция.md",
     "JS-TS/Копирования Обьектов и Массивов.md",
@@ -139,7 +149,6 @@
     "Templates/JS-TS template.md",
     "Templates/React-hooks template.md",
     "Templates/React template.md",
-    "Templates/React library template.md",
-    "JS-TS/JS-TS methods/map().md"
+    "Templates/React library template.md"
   ]
 }
