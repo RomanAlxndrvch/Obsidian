@@ -7,12 +7,8 @@
         "id": "4cd1b418337bf2ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JS-TS/JS-TS methods/Arrays.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/JS-TS methods/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/JS-TS methods/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS-TS/JS-TS methods/Arrays.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,6 +131,7 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "JS-TS/JS-TS methods/Arrays.md",
     "JS-TS/Копирования Обьектов и Массивов.md",
     "Files/JS-TS/Имутабельный вариант изминения массива.png",
     "JS-TS/JS-TS methods/structuredClone() - копирования обьекта.md",
@@ -147,7 +140,6 @@
     "JS-TS/Ассоциативный массив.md",
     "JS-TS/JS-TS methods/[Копирования Обьектов и Массивов.md",
     "React/React libraries/React libraries.md",
-    "React/React libraries/React Router Dom.md",
-    "JS-TS/JS-TS methods/filter().md"
+    "React/React libraries/React Router Dom.md"
   ]
 }
