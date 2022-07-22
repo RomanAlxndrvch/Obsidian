@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -131,15 +131,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
-    "JS-TS/JS-TS methods/Arrays.md",
     "JS-TS/Копирования Обьектов и Массивов.md",
-    "Files/JS-TS/Имутабельный вариант изминения массива.png",
+    "JS-TS/Копирования массива с изминениями внутри..png.md",
+    "Files/JS-TS/Копирования массива с изминениями внутри.png",
+    "Files/JS-TS/Копирования массива с изминениями внутри..png",
     "JS-TS/JS-TS methods/structuredClone() - копирования обьекта.md",
+    "Files/JS-TS/SliceCopyArray.png",
+    "Files/JS-TS/Тип обьекта.png",
     "Files/JS-TS/Копирования обьектов с вложеными другими обьектами.png",
-    "JS-TS/JS-TS methods/concat().md",
-    "JS-TS/Ассоциативный массив.md",
-    "JS-TS/JS-TS methods/[Копирования Обьектов и Массивов.md",
-    "React/React libraries/React libraries.md",
-    "React/React libraries/React Router Dom.md"
+    "Files/JS-TS/Копирования обьекта.png",
+    "Files/JS-TS/Имутабельный вариант изминения массива.png"
   ]
 }
