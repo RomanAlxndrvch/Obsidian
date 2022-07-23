@@ -4,6 +4,10 @@
 
 ### [Documentation](https://mui.com/)
 
+```
+yarn add @mui/material @emotion/react @emotion/styled
+```
+
 
 Делаем кнопку **активной**. В зависимоти от стэйта проперти variant меняется :
 ![[Active btn.png]]
