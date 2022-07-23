@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/React libraries/Material-UI.md",
+            "file": "JS-TS/Копирования Обьектов и Массивов.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React libraries/Material-UI.md",
+                "file": "JS-TS/Копирования Обьектов и Массивов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React libraries/Material-UI.md",
+                "file": "JS-TS/Копирования Обьектов и Массивов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React libraries/Material-UI.md"
+                "file": "JS-TS/Копирования Обьектов и Массивов.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/React hooks/useEffect.md",
+    "React/React libraries/React Router Dom.md",
+    "JS-TS/Ассоциативный массив.md",
+    "React/React hooks/React hooks.md",
+    "React/React hooks/useState.md",
     "React/React libraries/Material-UI.md",
     "React/React libraries/Story book.md",
-    "React/React libraries/React Router Dom.md",
     "React/Controlled input, checkbox, select.md",
-    "JS-TS/Ассоциативный массив.md",
     "Files/JS-methods.jpg",
-    "JS-TS/JS-TS methods/Arrays.md",
-    "Files/StoryBook example.png",
-    "JS-TS/Копирования Обьектов и Массивов.md",
-    "Files/JS-TS/Имутабельный вариант изминения массива.png"
+    "JS-TS/JS-TS methods/Arrays.md"
   ]
 }
