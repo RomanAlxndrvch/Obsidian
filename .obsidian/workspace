@@ -7,12 +7,8 @@
         "id": "4cd1b418337bf2ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JS-TS/Копирования Обьектов и Массивов.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/Копирования Обьектов и Массивов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/Копирования Обьектов и Массивов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS-TS/Копирования Обьектов и Массивов.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,6 +131,7 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "JS-TS/Копирования Обьектов и Массивов.md",
     "React/React hooks/useEffect.md",
     "React/React libraries/React Router Dom.md",
     "JS-TS/Ассоциативный массив.md",
@@ -147,7 +140,6 @@
     "React/React libraries/Material-UI.md",
     "React/React libraries/Story book.md",
     "React/Controlled input, checkbox, select.md",
-    "Files/JS-methods.jpg",
-    "JS-TS/JS-TS methods/Arrays.md"
+    "Files/JS-methods.jpg"
   ]
 }
