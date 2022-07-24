@@ -131,15 +131,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "JS-TS/Ассоциативный массив.md",
+    "JS-TS/JS-TS methods/structuredClone() - копирования обьекта.md",
+    "React/React hooks/React hooks.md",
+    "JS-TS/Копирования Обьектов и Массивов.md",
     "React/React libraries/Material-UI.md",
     "React/React libraries/Story book.md",
-    "JS-TS/Копирования Обьектов и Массивов.md",
     "React/React hooks/useEffect.md",
     "React/React libraries/React Router Dom.md",
-    "JS-TS/Ассоциативный массив.md",
-    "React/React hooks/React hooks.md",
     "React/React hooks/useState.md",
-    "React/Controlled input, checkbox, select.md",
-    "Files/JS-methods.jpg"
+    "React/Controlled input, checkbox, select.md"
   ]
 }
