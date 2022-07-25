@@ -25,7 +25,7 @@
       "query": "tag:#react-libraries",
       "color": {
         "a": 1,
-        "rgb": 11610036
+        "rgb": 16014685
       }
     },
     {
@@ -55,18 +55,25 @@
         "a": 1,
         "rgb": 11010048
       }
+    },
+    {
+      "query": "tag:#redux",
+      "color": {
+        "a": 1,
+        "rgb": 5645934
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00842696629213,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -2.7,
+  "nodeSizeMultiplier": 1.60208333333333,
+  "lineSizeMultiplier": 1.42708333333333,
   "collapse-forces": false,
-  "centerStrength": 0.5625,
-  "repelStrength": 14.5833333333333,
+  "centerStrength": 0.473214285714286,
+  "repelStrength": 16.8452380952381,
   "linkStrength": 1,
-  "linkDistance": 247,
-  "scale": 0.7132754626224592,
+  "linkDistance": 283,
+  "scale": 0.5087618855792728,
   "close": false
 }
