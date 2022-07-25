@@ -27,7 +27,8 @@ _____________________________________
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OK00k47RMPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Так же мы можем создать свою тему с заменов стандартных настроек  материала.
+### Так же мы можем создать свою тему с заменов стандартных настроек  материала.(лучше разобраться со styled component)
+
 [Кусок урока касательно этого](https://youtu.be/7PJqUlPxvdw?t=6854)
 
 ![[Создания тем.png]]
