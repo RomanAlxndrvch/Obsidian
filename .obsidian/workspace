@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Redux/Redux.md",
+            "file": "React/Reducer для Redux.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux/Redux.md",
+                "file": "React/Reducer для Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux/Redux.md",
+                "file": "React/Reducer для Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redux/Redux.md"
+                "file": "React/Reducer для Redux.md"
               }
             }
           },
@@ -139,11 +139,11 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/Redux/Redux.md",
     "React/React.md",
     "JS-TS/Копирования Обьектов и Массивов.md",
     "React/Reducer для Redux.md",
     "React/React hooks/useReducer.md",
-    "React/Redux/Redux.md",
     "Files/React/AC.png",
     "JS-TS/JS-TS methods/filter().md",
     "React/React libraries/Material-UI.md",
