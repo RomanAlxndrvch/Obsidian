@@ -7,8 +7,12 @@
         "id": "4cd1b418337bf2ff",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "React/Reducer для Redux.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/Reducer для Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/Reducer для Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/Reducer для Redux.md"
+              }
             }
           },
           {
@@ -131,10 +139,10 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/Reducer для Redux.md",
     "React/Redux/Redux.md",
     "React/React hooks/useRef.md",
     "React/React hooks/useReducer.md",
-    "React/Reducer для Redux.md",
     "React/React hooks/useState.md",
     "React/React libraries/Material-UI.md",
     "React/Context API/Context API.md",
