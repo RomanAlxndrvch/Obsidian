@@ -13,3 +13,5 @@ useReducer - это альтернатива useState, которая испол
 
 # Вызов actionCreator для нашего редюса: 
 ![[ActionsCreators.png]]
+И пример самых ActionCreators
+![[ActionCreators in TaskReducer.png]]
