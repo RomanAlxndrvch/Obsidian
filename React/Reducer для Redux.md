@@ -2,6 +2,7 @@
 
 # ==Reducer==
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ed70AZk1ofE?start=8324" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Link fron lessen 7 about Reducers](https://youtu.be/Ed70AZk1ofE?t=8323)
 
 Редюсер - это обычая функия,которая принимает 2 агрумента (**state,action**),где стэйт - это наш первоначальный,еще не изминенный стейт,а **action** это функции\ каллбэки которые создают обьект с инструкциями по работе с этим стейтом. 
