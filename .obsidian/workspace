@@ -7,12 +7,8 @@
         "id": "4cd1b418337bf2ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "React/Controlled input, checkbox, select.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Controlled input, checkbox, select.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Controlled input, checkbox, select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/Controlled input, checkbox, select.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,15 +131,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
-    "React/Context API/Типизация контекста.png",
+    "React/Reducer для Redux.md",
+    "React/React hooks/useReducer.md",
+    "React/React hooks/useState.md",
+    "React/React libraries/Material-UI.md",
     "React/Context API/Context API.md",
+    "JS-TS/Копирования Обьектов и Массивов.md",
     "React/Redux/Redux.md",
-    "React/React libraries/React Router Dom.md",
-    "JS-TS/Чистая функция.md",
-    "JS-TS/Ассоциативный массив.md",
-    "JS-TS/JS-TS methods/structuredClone() - копирования обьекта.md",
-    "React/React hooks/useEffect.md",
     "React/React libraries/Story book.md",
-    "React/Reducer для Redux.md"
+    "JS-TS/Ассоциативный массив.md",
+    "2022-07-30.md"
   ]
 }
