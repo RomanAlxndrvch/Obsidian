@@ -2,6 +2,19 @@
 
 # ==Reducer==
 
+## ==Урок 8==
+
+[Видео от Димыча про reducer,unit test](https://www.youtube.com/watch?v=5AeVQOpvYEA)
+
+Reducer - фукция,которая принимает state и action.
+Редюсер посмотрит какой тип у нашего action и согласно этому типу (action.type) выполнит некоторые функции с нашим state и вернет новый,измененный стейт. 
+
+action стоитоит из типа(по сути названия функции), и дополнительных данных для выполнения этой функиции
+
+____________________________________________
+
+## ==Урок 7==
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ed70AZk1ofE?start=8324" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Link fron lessen 7 about Reducers](https://youtu.be/Ed70AZk1ofE?t=8323)
 

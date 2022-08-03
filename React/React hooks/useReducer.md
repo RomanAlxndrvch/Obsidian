@@ -1,4 +1,4 @@
-#react-hooks  [[Reducer для Redux]]  [[React hooks]]
+#react-hooks  [[Reducer]]  [[React hooks]]
 
 [Documentation](https://ru.reactjs.org/docs/hooks-reference.html#usereducer)
 
