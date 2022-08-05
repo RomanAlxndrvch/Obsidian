@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "3ab55a4aa4f5f8ac",
@@ -132,15 +131,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
-    "Tests/Unit Tests.md",
     "React/Reducer.md",
+    "Files/React/Варианты типизаци ActionCreator.png",
+    "Tests/Unit Tests.md",
     "React/React hooks/useReducer.md",
     "React/Redux/Redux.md",
     "JS-TS/JS-TS methods/every().md",
     "JS-TS/JS-TS methods/reduce().md",
     "JS-TS/JS-TS methods/map().md",
     "JS-TS/JS-TS methods/concat().md",
-    "React/React.memo().md",
-    "React/React hooks/useRef.md"
+    "React/React.memo().md"
   ]
 }
