@@ -80,7 +80,7 @@
   "centerStrength": 0.550595238095238,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 325,
-  "scale": 0.508761885579277,
-  "close": true
+  "linkDistance": 210,
+  "scale": 0.36288736930122506,
+  "close": false
 }

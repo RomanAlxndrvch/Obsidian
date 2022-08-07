@@ -132,14 +132,14 @@
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
     "React/React libraries/React-Redux.md",
+    "JS-TS/Автоматическая типизация.md",
+    "Files/JS-TS/Пример стора с соцсети.png",
+    "React/Reducer.md",
+    "React/Redux/Redux.md",
+    "React/React hooks/useReducer.md",
     "React/Context API/Context API.md",
     "React/Context API/Типизация контекста.png",
     "React/React.memo().md",
-    "React/Reducer.md",
-    "2022-08-06.md",
-    "React/React libraries/React Router Dom.md",
-    "React/React libraries/Material-UI.md",
-    "React/React hooks/useReducer.md",
-    "Files/React/Варианты типизаци ActionCreator.png"
+    "2022-08-06.md"
   ]
 }
