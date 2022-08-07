@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/React hooks/useReducer.md",
+            "file": "React/React libraries/React-Redux.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React hooks/useReducer.md",
+                "file": "React/React libraries/React-Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React hooks/useReducer.md",
+                "file": "React/React libraries/React-Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React hooks/useReducer.md"
+                "file": "React/React libraries/React-Redux.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/React libraries/React-Redux.md",
+    "React/React libraries/React Router Dom.md",
+    "React/React libraries/Material-UI.md",
+    "React/React.memo().md",
+    "React/React hooks/useReducer.md",
     "React/Reducer.md",
     "Files/React/Варианты типизаци ActionCreator.png",
     "Tests/Unit Tests.md",
-    "React/React hooks/useReducer.md",
     "React/Redux/Redux.md",
-    "JS-TS/JS-TS methods/every().md",
-    "JS-TS/JS-TS methods/reduce().md",
-    "JS-TS/JS-TS methods/map().md",
-    "JS-TS/JS-TS methods/concat().md",
-    "React/React.memo().md"
+    "JS-TS/JS-TS methods/every().md"
   ]
 }
