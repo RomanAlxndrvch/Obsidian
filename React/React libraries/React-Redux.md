@@ -16,6 +16,21 @@ Connect служит для создания "контейнерной комп�
 
 #### Синтаксис всей контейнерной компоненты: 
 ```tsx
+export type MessageType = {  
+    id: number,  
+    message: string  
+}  
+type DialogType = {  
+    id: number,  
+    name: string,  
+    avatar: string  
+}  
+export type DialogsPageType = {  
+    messages: Array<MessageType>  
+    dialogs: Array<DialogType>  
+    newMessageBody: string  
+}
+
 
 type MapStateToPropsType = {  
     dialogsPage: DialogsPageType  
