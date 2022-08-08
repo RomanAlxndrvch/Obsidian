@@ -14,5 +14,54 @@ ____________________________
 # Connect
 Connect служит для создания "контейнерной компоненты" для нашей UI / презинтационной компоненты. (В которую мы будем передавать наши каллбэки и функции)
 
-#### Синтаксис: 
+#### Синтаксис всей контейнерной компоненты: 
+```tsx
 
+type MapStateToPropsType = {  
+    dialogsPage: DialogsPageType  
+}  
+type MapDispatchPropsType = {  
+    updateNewMessageBody: (e: string) => void  
+    sendMessageCreator: () => void  
+}  
+  
+const mapStateToProps = (state: stateType): MapStateToPropsType => {  
+    return {  
+        dialogsPage: state.dialogsPage  
+    }  
+}  
+  
+const mapDispatchToProps = (dispatch: Dispatch): MapDispatchPropsType => {  
+    return {  
+        updateNewMessageBody: (e: string) => {  
+            dispatch(updateNewMessageBodyCreator(e))  
+  
+        },  
+        sendMessageCreator: () => {  
+            dispatch(sendMessageCreator())  
+        }  
+    }  
+}  
+  
+const DialogsContainer = connect  
+(mapStateToProps, mapDispatchToProps)(Dialogs)  
+  
+export default DialogsContainer
+
+```
+
+_______________________________________
+
+### Так мы создаем нашу котейнерную компоненту DialogsContainer
+
+![[Создания контейнера через конекс.png]]
+
+
+_______________________________________
+
+
+Эта компонента будет возвращять компопнету Dialogs,которой передаст в просы все с mapStateToProps и mapDispatchToProps.
+Пропсы которые будут в Dialogs позначены красным.
+Зеленым позначены важные моменты типизиции
+
+![[Мап стэйт и Мап диспатч.png]]
