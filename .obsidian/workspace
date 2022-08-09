@@ -7,12 +7,8 @@
         "id": "4cd1b418337bf2ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "React/React hooks/useReducer.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React hooks/useReducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React hooks/useReducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/React hooks/useReducer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,12 +131,12 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/React hooks/useReducer.md",
+    "React/Reducer.md",
     "React/React libraries/React-Redux.md",
     "JS-TS/Автоматическая типизация.md",
     "Files/JS-TS/Пример стора с соцсети.png",
-    "React/Reducer.md",
     "React/Redux/Redux.md",
-    "React/React hooks/useReducer.md",
     "React/Context API/Context API.md",
     "React/Context API/Типизация контекста.png",
     "React/React.memo().md",
