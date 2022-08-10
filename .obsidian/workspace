@@ -7,8 +7,12 @@
         "id": "4cd1b418337bf2ff",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "React/Reducer.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/Reducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/Reducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/Reducer.md"
+              }
             }
           },
           {
@@ -131,8 +139,8 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
-    "React/React hooks/useReducer.md",
     "React/Reducer.md",
+    "React/React hooks/useReducer.md",
     "React/React libraries/React-Redux.md",
     "JS-TS/Автоматическая типизация.md",
     "Files/JS-TS/Пример стора с соцсети.png",
