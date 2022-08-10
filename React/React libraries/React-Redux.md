@@ -14,6 +14,14 @@ ____________________________
 # Connect
 Connect служит для создания "контейнерной компоненты" для нашей UI / презинтационной компоненты. (В которую мы будем передавать наши каллбэки и функции)
 
+```tsx
+// Нужные импорты для конекта
+import React from "react";
+import {connect} from "react-redux";  
+import {Dispatch} from "redux";
+
+```
+
 #### Синтаксис всей контейнерной компоненты: 
 ```tsx
 export type MessageType = {  
@@ -49,11 +57,11 @@ const mapStateToProps = (state: stateType): MapStateToPropsType => {
 const mapDispatchToProps = (dispatch: Dispatch): MapDispatchPropsType => {  
     return {  
         updateNewMessageBody: (e: string) => {  
-            dispatch(updateNewMessageBodyCreator(e))  
+            dispatch(updateNewMessageBodyActionCreator(e))  
   
         },  
         sendMessageCreator: () => {  
-            dispatch(sendMessageCreator())  
+            dispatch(sendMessageActionCreator())  
         }  
     }  
 }  

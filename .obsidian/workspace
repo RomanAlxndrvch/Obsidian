@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Reducer.md",
+            "file": "React/React libraries/React-Redux.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Reducer.md",
+                "file": "React/React libraries/React-Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Reducer.md",
+                "file": "React/React libraries/React-Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Reducer.md"
+                "file": "React/React libraries/React-Redux.md"
               }
             }
           },
@@ -139,6 +139,7 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "Tests/Unit Tests.md",
     "React/Reducer.md",
     "React/React hooks/useReducer.md",
     "React/React libraries/React-Redux.md",
@@ -147,7 +148,6 @@
     "React/Redux/Redux.md",
     "React/Context API/Context API.md",
     "React/Context API/Типизация контекста.png",
-    "React/React.memo().md",
-    "2022-08-06.md"
+    "React/React.memo().md"
   ]
 }
