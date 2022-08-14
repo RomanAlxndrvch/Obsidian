@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/React libraries/Material-UI.md",
+            "file": "React/Context API/Context API.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React libraries/Material-UI.md",
+                "file": "React/Context API/Context API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React libraries/Material-UI.md",
+                "file": "React/Context API/Context API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React libraries/Material-UI.md"
+                "file": "React/Context API/Context API.md"
               }
             }
           },
@@ -140,15 +140,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
-    "React/React libraries/React Router Dom.md",
+    "React/React libraries/React-Redux.md",
+    "React/Reducer.md",
+    "Tests/Unit Tests.md",
+    "React/React hooks/useReducer.md",
     "React/React libraries/Material-UI.md",
+    "React/React libraries/React Router Dom.md",
     "React/React hooks/useMemo.md",
     "React/React.memo().md",
     "React/React hooks/useEffect.md",
-    "React/Reducer.md",
-    "React/React libraries/React-Redux.md",
-    "Tests/Unit Tests.md",
-    "React/React hooks/useReducer.md",
     "JS-TS/Автоматическая типизация.md"
   ]
 }
