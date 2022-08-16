@@ -4,8 +4,10 @@
 
 ## ==Урок 8==
 
-[Видео от Димыча про reducer,unit test](https://www.youtube.com/watch?v=5AeVQOpvYEA)
+[Видео от Димыча 8  про reducer for todoLists,unit test](https://www.youtube.com/watch?v=5AeVQOpvYEA)
 [Lessen 8, Redusers,unit tests](https://www.youtube.com/watch?v=n8mdnOX4M4g&list=PLbLBXDhswD1dOrCHdU8OtGvARL02N9zFj&index=41&t=5704s)
+
+[Видео от Димыча 9  про reducer for tasks,unit test](https://www.youtube.com/watch?v=37ZoArFevhQ)
 
 Reducer - фукция,которая принимает state и action.
 Редюсер посмотрит какой тип у нашего action и согласно этому типу (action.type) выполнит некоторые функции с нашим state и вернет новый,измененный стейт. 
