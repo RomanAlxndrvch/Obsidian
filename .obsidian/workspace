@@ -132,6 +132,7 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "JS-TS/JS-TS methods/every().md",
     "React/Reducer.md",
     "React/Context API/Context API.md",
     "React/React libraries/React-Redux.md",
@@ -140,7 +141,6 @@
     "React/React libraries/Material-UI.md",
     "React/React libraries/React Router Dom.md",
     "React/React hooks/useMemo.md",
-    "React/React.memo().md",
-    "React/React hooks/useEffect.md"
+    "React/React.memo().md"
   ]
 }
