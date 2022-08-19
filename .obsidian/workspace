@@ -7,12 +7,8 @@
         "id": "4cd1b418337bf2ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JS-TS/Ассоциативный массив.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/Ассоциативный массив.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/Ассоциативный массив.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS-TS/Ассоциативный массив.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,15 +132,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/Context API/Context API.md",
+    "JS-TS/Чистая функция.md",
+    "JS-TS/Ассоциативный массив.md",
     "JS-TS/JS-TS methods/every().md",
     "React/Reducer.md",
-    "React/Context API/Context API.md",
     "React/React libraries/React-Redux.md",
     "Tests/Unit Tests.md",
     "React/React hooks/useReducer.md",
     "React/React libraries/Material-UI.md",
-    "React/React libraries/React Router Dom.md",
-    "React/React hooks/useMemo.md",
-    "React/React.memo().md"
+    "React/React libraries/React Router Dom.md"
   ]
 }
