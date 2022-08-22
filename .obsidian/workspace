@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Классовые компоненты.md",
+            "file": "React/ClassComponents/componentDidMount.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "3ab55a4aa4f5f8ac",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Классовые компоненты.md",
+                "file": "React/ClassComponents/componentDidMount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Классовые компоненты.md",
+                "file": "React/ClassComponents/componentDidMount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Классовые компоненты.md"
+                "file": "React/ClassComponents/componentDidMount.md"
               }
             }
           },
@@ -140,15 +139,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/ClassComponents/componentDidMount.md",
+    "React/ClassComponents/Классовые компоненты.md",
     "React/React libraries/axios.md",
     "React/React libraries/React-Redux.md",
-    "React/Классовые компоненты.md",
     "React/React libraries/Material-UI.md",
     "Files/Ассоциативный массив.png",
     "React/Reducer.md",
     "React/Context API/Context API.md",
     "JS-TS/Чистая функция.md",
-    "JS-TS/Ассоциативный массив.md",
-    "JS-TS/JS-TS methods/every().md"
+    "JS-TS/Ассоциативный массив.md"
   ]
 }

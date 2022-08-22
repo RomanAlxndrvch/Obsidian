@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 1114367
       }
+    },
+    {
+      "query": "tag:#ClassComponents",
+      "color": {
+        "a": 1,
+        "rgb": 5072414
+      }
     }
   ],
   "collapse-display": false,
@@ -82,5 +89,5 @@
   "linkStrength": 1,
   "linkDistance": 210,
   "scale": 0.5087618855792783,
-  "close": true
+  "close": false
 }
