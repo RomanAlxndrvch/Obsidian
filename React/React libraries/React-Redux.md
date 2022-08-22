@@ -3,6 +3,10 @@
 [Documentation](https://react-redux.js.org/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rax-pihie5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cbnExb3GSFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYaHe-lP7eY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # Provider
 ## Данная библиотека нужна,чтобы наши контейнерные компоненты / компоненты имели возможность получать достук к нашему стору напрямую

@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "3ab55a4aa4f5f8ac",
@@ -139,15 +140,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
-    "React/Классовые компоненты.md",
     "React/React libraries/axios.md",
+    "React/React libraries/React-Redux.md",
+    "React/Классовые компоненты.md",
     "React/React libraries/Material-UI.md",
     "Files/Ассоциативный массив.png",
     "React/Reducer.md",
     "React/Context API/Context API.md",
     "JS-TS/Чистая функция.md",
     "JS-TS/Ассоциативный массив.md",
-    "JS-TS/JS-TS methods/every().md",
-    "React/React libraries/React-Redux.md"
+    "JS-TS/JS-TS methods/every().md"
   ]
 }
