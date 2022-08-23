@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/ClassComponents/componentDidMount.md",
+            "file": "React/React hooks/useCallback.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/ClassComponents/componentDidMount.md",
+                "file": "React/React hooks/useCallback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/ClassComponents/componentDidMount.md",
+                "file": "React/React hooks/useCallback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/ClassComponents/componentDidMount.md"
+                "file": "React/React hooks/useCallback.md"
               }
             }
           },
@@ -139,6 +139,8 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/React.memo().md",
+    "React/React hooks/useMemo.md",
     "React/ClassComponents/componentDidMount.md",
     "React/ClassComponents/Классовые компоненты.md",
     "React/React libraries/axios.md",
@@ -146,8 +148,6 @@
     "React/React libraries/Material-UI.md",
     "Files/Ассоциативный массив.png",
     "React/Reducer.md",
-    "React/Context API/Context API.md",
-    "JS-TS/Чистая функция.md",
-    "JS-TS/Ассоциативный массив.md"
+    "React/Context API/Context API.md"
   ]
 }
