@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "3ab55a4aa4f5f8ac",
@@ -132,6 +131,7 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "Files/JS-TS/Lexical environmen (Лекчичкское окружение).md",
     "React/ClassComponents/Классовые компоненты.md",
     "React/React hooks/useCallback.md",
     "React/React.memo().md",
@@ -140,7 +140,6 @@
     "React/React libraries/axios.md",
     "React/React libraries/React-Redux.md",
     "React/React libraries/Material-UI.md",
-    "Files/Ассоциативный массив.png",
-    "React/Reducer.md"
+    "Files/Ассоциативный массив.png"
   ]
 }
