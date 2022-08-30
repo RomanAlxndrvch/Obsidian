@@ -3,6 +3,9 @@
 [Official docomentation](https://redux.js.org/)
 [Не оффициальная дока на русском](https://rajdee.gitbooks.io/redux-in-russian/content/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-agjmFFSdM?start=1717" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Redux дает возможность создать store.
 
 ```
@@ -19,10 +22,113 @@ ______________________________
 
 Результирующий редюсер вызывает вложенные редюсеры и собирает их результаты в единый объект состояния. **Состояние, созданное именами `combineReducers()`, сохраняет состояние каждого редуктора под их ключами, переданные в `combineReducers()`**
 
+______________________________________
 
-# Пример из тудулиста
+# Пример из тудулиста:
+
+### 1 : Создаем наш стор
+``` tsx
+
+import {tasksReducer} from "./tasks-reducer";  
+import {todolistsReducer} from "./todolists-reducer";  
+  
+const rootReducer = combineReducers({  
+    tasks: tasksReducer,  
+    todolists: todolistsReducer   // кобайним редюсеры
+})  
+  
+export const store = createStore(rootReducer)  // создаем стор
+  
+export type AppRootState = ReturnType<typeof rootReducer> // типизируем наш стор
 
 
+```
+
+
+### 2 :Пользования стором
+Теперь мы оборачиваем нашу корневую компоненту в **index.tsx** провайдетром с библиотеки [React-Redux](obsidian://open?vault=ObsidianFiles&file=React%2FReact%20libraries%2FReact-Redux) чтобы дать доступ к стору всем дочерним копонентам.
+```tsx 
+ReactDOM.render(  
+    <Provider store={store}>  
+        <AppWithRedux/>  
+    </Provider>  
+    ,  
+    document.getElementById('root'));
+
+```
+
+### 3: Создаем initialState для наших редюсеров чтобы произошел стортовые рендер.
+
+```tsx
+
+const initialState: Array<TodoListType> = [  
+    {id: todoListId1, title: 'What to learn?', filter: 'all'},  
+    {id: todoListId2, title: 'What to buy?', filter: 'all'}  
+]  
+  
+export const todolistsReducer = (state: Array<TodoListType> = initialState, action: ActionsType): Array<TodoListType> => {...}
+
+```
+
+
+### 4:  Получаем возможность использовать store c Redux'a
+Для этого нам нужно уметь диспатчить ЭкшнКриэйтеры в Redux.
+
+1:Создам общий диспатч с помощью хука библиотеки [React-Redux](obsidian://open?vault=ObsidianFiles&file=React%2FReact%20libraries%2FReact-Redux) [useDispatch](obsidian://open?vault=ObsidianFiles&file=React%2FReact%20libraries%2FuseDispatch)
+```tsx
+import {useDispatch} from "react-redux"; 
+
+const dispatch = useDispatch()
+```
+
+2: теперь мы можем диспатчить наши ActionCreator в любой редюсер из стейта
+
+```tsx
+
+function removeTask(id: string, todolistId: string) {  
+    dispatch(removeTaskAC(todolistId, id))  
+}  
+  
+function addTask(title: string, todolistId: string) {  
+    dispatch(addTaskAC(title, todolistId))  
+}  
+  
+function changeTaskTitle(newValue: string, taskId: string, todoListId: string) {  
+    dispatch(changeTaskTitleAC(taskId, newValue, todoListId))  
+}  
+  
+function changeStatus(taskId: string, isDone: boolean, todolistId: string) {  
+    dispatch(changeTaskStatusAC(taskId, isDone, todolistId))  
+}  
+  
+function changeFilter(value: FilteredValuesType, todoListId: string) {  
+    dispatch(changeTodolistFilterAC(value, todoListId))  
+}  
+  
+function removeTodolist(todolistId: string) {  
+    dispatch(removeTodolistAC(todolistId))  
+}  
+  
+const changeTodoListTitle = (newTitle: string, id: string) => {  
+    dispatch(changeTodolistTitleAC(id, newTitle))  
+}  
+  
+function addTodoList(title: string) {  
+    let action = addTodolistAC(title)  
+    dispatch(action)  
+}
+
+```
+
+3:  Теперь мы можем заменить useReduser с стейтами на хук с библиотеки [React-Redux](obsidian://open?vault=ObsidianFiles&file=React%2FReact%20libraries%2FReact-Redux)  - [useSelector](obsidian://open?vault=ObsidianFiles&file=React%2FRedux%2FuseSelector)
+useReducer больше не нужен
+```tsx
+const todolists = useSelector<AppRootState, Array<TodoListType>>(state => state.todolists)  
+  
+const tasks = useSelector<AppRootState, TasksStateType>(state => state.tasks)
+
+```
+___________________________________________
 
 # Пример из соц сети:
 
