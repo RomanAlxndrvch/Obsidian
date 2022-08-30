@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/React hooks/useReducer.md",
+            "file": "React/Redux/Redux.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React hooks/useReducer.md",
+                "file": "React/Redux/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React hooks/useReducer.md",
+                "file": "React/Redux/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React hooks/useReducer.md"
+                "file": "React/Redux/Redux.md"
               }
             }
           },
@@ -140,15 +140,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/React libraries/React-Redux.md",
+    "React/Redux/Redux.md",
+    "React/React libraries/React libraries.md",
     "React/React hooks/useReducer.md",
     "JS-TS/Автоматическая типизация.md",
     "Files/JS-TS/Lexical environmen (Лекчичкское окружение).md",
     "React/ClassComponents/Классовые компоненты.md",
     "React/React hooks/useCallback.md",
     "React/React.memo().md",
-    "React/React hooks/useMemo.md",
-    "React/ClassComponents/componentDidMount.md",
-    "React/React libraries/axios.md",
-    "React/React libraries/React-Redux.md"
+    "React/React hooks/useMemo.md"
   ]
 }

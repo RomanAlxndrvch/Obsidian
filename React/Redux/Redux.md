@@ -1,10 +1,13 @@
-#redux [[React]]
+#redux [[React]] [[React libraries]]
 
 [Official docomentation](https://redux.js.org/)
 [Не оффициальная дока на русском](https://rajdee.gitbooks.io/redux-in-russian/content/)
 
 Redux дает возможность создать store.
 
+```
+yarn add redux react-redux @types/react-redux
+```
 
 # Справочник API
 ==let store = createStore()== - [Link](https://rajdee.gitbooks.io/redux-in-russian/content/docs/api/createStore.html) - Создает Redux стор которое хранит полное дерево состояния вашего приложения. Оно должно быть единственным стором в вашем приложении. 
@@ -16,7 +19,12 @@ ______________________________
 
 Результирующий редюсер вызывает вложенные редюсеры и собирает их результаты в единый объект состояния. **Состояние, созданное именами `combineReducers()`, сохраняет состояние каждого редуктора под их ключами, переданные в `combineReducers()`**
 
-Пример:
+
+# Пример из тудулиста
+
+
+
+# Пример из соц сети:
 
 ``` ts
 rootReducer = combineReducers({potato: potatoReducer, tomato: tomatoReducer})
