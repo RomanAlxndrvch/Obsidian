@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#react",
-                "matchingCase": false,
+                "query": "tag:#react-hooks",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -139,10 +139,10 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
-    "React/Redux/Redux.md",
-    "React/Redux/useSelector.md",
-    "React/React libraries/useDispatch.md",
     "React/React libraries/React-Redux.md",
+    "React/Redux/Redux.md",
+    "React/React libraries/useDispatch.md",
+    "React/Redux/useSelector.md",
     "React/Reducer.md",
     "React/React libraries/React libraries.md",
     "React/React hooks/useReducer.md",

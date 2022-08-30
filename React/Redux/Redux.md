@@ -28,7 +28,7 @@ ______________________________________
 
 ### 1 : Создаем наш стор
 ``` tsx
-
+import {combineReducers, createStore} from "redux";
 import {tasksReducer} from "./tasks-reducer";  
 import {todolistsReducer} from "./todolists-reducer";  
   
@@ -130,7 +130,7 @@ const tasks = useSelector<AppRootState, TasksStateType>(state => state.tasks)
 ```
 ___________________________________________
 
-# Пример из соц сети:
+# ==Пример из соц сети:==
 
 ``` ts
 rootReducer = combineReducers({potato: potatoReducer, tomato: tomatoReducer})
