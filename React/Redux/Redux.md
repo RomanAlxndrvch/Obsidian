@@ -128,6 +128,75 @@ const todolists = useSelector<AppRootState, Array<TodoListType>>(state => state.
 const tasks = useSelector<AppRootState, TasksStateType>(state => state.tasks)
 
 ```
+
+# Final :
+
+```tsx 
+
+function App() {
+
+// States
+
+const dispatch = useDispatch()
+
+const todolists = useSelector<AppRootState, Array<TodoListType>>(state => state.todolists)
+
+const tasks = useSelector<AppRootState, TasksStateType>(state => state.tasks)
+
+// Function for changing state
+
+function removeTask(id: string, todolistId: string) {
+
+dispatch(removeTaskAC(todolistId, id))
+
+}
+
+function addTask(title: string, todolistId: string) {
+
+dispatch(addTaskAC(title, todolistId))
+
+}
+
+function changeTaskTitle(newValue: string, taskId: string, todoListId: string) {
+
+dispatch(changeTaskTitleAC(taskId, newValue, todoListId))
+
+}
+
+function changeStatus(taskId: string, isDone: boolean, todolistId: string) {
+
+dispatch(changeTaskStatusAC(taskId, isDone, todolistId))
+
+}
+
+function changeFilter(value: FilteredValuesType, todoListId: string) {
+
+dispatch(changeTodolistFilterAC(value, todoListId))
+
+}
+
+function removeTodolist(todolistId: string) {
+
+dispatch(removeTodolistAC(todolistId))
+
+}
+
+const changeTodoListTitle = (newTitle: string, id: string) => {
+
+dispatch(changeTodolistTitleAC(id, newTitle))
+
+}
+
+function addTodoList(title: string) {
+
+let action = addTodolistAC(title)
+
+dispatch(action)
+
+}
+
+```
+
 ___________________________________________
 
 # ==Пример из соц сети:==
