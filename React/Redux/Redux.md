@@ -40,8 +40,6 @@ const rootReducer = combineReducers({
 export const store = createStore(rootReducer)  // создаем стор
   
 export type AppRootState = ReturnType<typeof rootReducer> // типизируем наш стор
-
-
 ```
 
 
