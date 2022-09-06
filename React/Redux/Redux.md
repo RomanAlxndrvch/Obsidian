@@ -28,7 +28,7 @@ ______________________________________
 
 ### 1 : Создаем наш стор
 ``` tsx
-import {combineReducers, createStore} from "redux";
+import {combineReducers, legacy_createStore} from "redux";
 import {tasksReducer} from "./tasks-reducer";  
 import {todolistsReducer} from "./todolists-reducer";  
   
@@ -37,7 +37,7 @@ const rootReducer = combineReducers({
     todolists: todolistsReducer   // кобайним редюсеры
 })  
   
-export const store = createStore(rootReducer)  // создаем стор
+export const store = legacy_createStore(rootReducer)  // создаем стор
   
 export type AppRootState = ReturnType<typeof rootReducer> // типизируем наш стор
 ```
