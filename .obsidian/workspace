@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Redux/useSelector.md",
+            "file": "React/Redux/Redux.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux/useSelector.md",
+                "file": "React/Redux/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux/useSelector.md",
+                "file": "React/Redux/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redux/useSelector.md"
+                "file": "React/Redux/Redux.md"
               }
             }
           },
@@ -139,9 +139,9 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/Redux/useSelector.md",
     "React/Redux/Redux.md",
     "React/React libraries/useDispatch.md",
-    "React/Redux/useSelector.md",
     "React/React libraries/React-Redux.md",
     "React/React hooks/useReducer.md",
     "React/React.md",
