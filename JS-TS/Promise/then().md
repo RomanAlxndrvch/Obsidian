@@ -4,7 +4,20 @@
 
 
 ### Можем плучить доступ к result промиса
+
+
 ``` JS
+const api = {  
+    getTodolist() {  
+        return new Promise((resolve, reject) => {  
+            setTimeout(() => {  
+                resolve({title: 'Monday'})  
+            }, 1000)  
+        })  
+    }  
+}
+
+
 const promisData = api.getTodolist()  
   
 promisData.then((value) => {  

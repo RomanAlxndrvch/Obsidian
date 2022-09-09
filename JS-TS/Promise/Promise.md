@@ -111,7 +111,7 @@ function Users() {
     })  
 }
 ```
-Теперь мы используем этот промис и присваиваем результат какой-то переменной. Доступ  к данным можем c помощью метода ==then==
+Теперь мы используем этот промис и присваиваем результат какой-то переменной. Доступ  к данным можем c помощью метода [==then==](obsidian://open?vault=ObsidianFiles&file=JS-TS%2FPromise%2Fthen())
 
 ```JS
 const promisData = api.getTodolist()  
@@ -121,3 +121,31 @@ promisData.then((value) => {
 })
 ```
 в метод then мы можем передать калбэк,в которм в параметре(value) будет сидеть доступ к result этого промиса
+
+----------------------------
+
+```js
+const promise = new Promise((resolve, reject) => {  
+    setTimeout(() => {  
+        reject('Some err')  
+    }, 2000)  
+})
+```
+В случае если в промисе ошибка,то ее прочитать можна с помощью метода [==catch==](obsidian://open?vault=ObsidianFiles&file=JS-TS%2FPromise%2Fcatch())
+
+-----------------------
+
+### Так есть есть спелиальный метод  [finally]()
+Он вызыввется в любом случае,не важно пришел ли нам resolve или reject
+```js
+const promise = new Promise((resolve, reject) => {  
+    setTimeout(() => {  
+        reject('Some err')  
+    }, 2000)  
+})  
+  
+promise.finally(() => {  
+    console.log('finally')  
+})
+
+```
