@@ -131,15 +131,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "JS-TS/Promise/then().md",
+    "JS-TS/Promise/Promise.md",
+    "Files/JS-TS/Lexical environmen (Лекчичкское окружение) и РЕКУРСИЯ.md",
     "React/ClassComponents/componentDidUpdate.md",
     "React/React hooks/useEffect.md",
     "React/ClassComponents/Классовые компоненты.md",
     "React/Redux/Redux.md",
     "React/Redux/useSelector.md",
     "React/React libraries/useDispatch.md",
-    "React/React libraries/React-Redux.md",
-    "React/React hooks/useReducer.md",
-    "React/React.md",
-    "Tests/Unit Tests.md"
+    "React/React libraries/React-Redux.md"
   ]
 }

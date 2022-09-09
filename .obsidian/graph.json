@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 5072414
       }
+    },
+    {
+      "query": "tag:#promise",
+      "color": {
+        "a": 1,
+        "rgb": 15892724
+      }
     }
   ],
   "collapse-display": false,
