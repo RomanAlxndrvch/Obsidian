@@ -131,15 +131,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/Redux/Redux.md",
+    "JS-TS/Promise/Promise.md",
+    "JS-TS/Promise/then().md",
+    "React/React libraries/React-Redux.md",
+    "React/React libraries/Material-UI.md",
+    "Tests/Unit Tests.md",
     "2022-09-10.md",
     "JS-TS/Async-await/Async-await.md",
-    "JS-TS/Promise/Promise.md",
     "React/React hooks/useEffect.md",
-    "JS-TS/Promise/catch().md",
-    "JS-TS/Promise/then().md",
-    "JS-TS/Promise/finally().md",
-    "Files/JS-TS/Lexical environmen (Лекчичкское окружение) и РЕКУРСИЯ.md",
-    "React/ClassComponents/componentDidUpdate.md",
-    "React/ClassComponents/Классовые компоненты.md"
+    "JS-TS/Promise/catch().md"
   ]
 }
