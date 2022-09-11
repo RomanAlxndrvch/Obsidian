@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 15892724
       }
+    },
+    {
+      "query": "#async/await",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
     }
   ],
   "collapse-display": false,
