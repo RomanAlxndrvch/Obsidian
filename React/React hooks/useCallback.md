@@ -6,6 +6,8 @@
 
 Передайте встроенный колбэк и массив зависимостей. Хук `useCallback` вернёт мемоизированную версию колбэка, который изменяется только, если изменяются значения одной из зависимостей.
 
+Если в зависимоти передать пустой массив,то это скажет хуку,чтобы не перерисоздавал функцию в любом случае. Функция всегда будет одна и та же
+
 [Documentation](https://ru.reactjs.org/docs/hooks-reference.html#usecallback)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pEl0aoJkWYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

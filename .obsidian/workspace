@@ -139,6 +139,7 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/React.memo().md",
     "React/React hooks/useCallback.md",
     "JS-TS/Promise/then().md",
     "JS-TS/Promise/Promise.md",
@@ -147,7 +148,6 @@
     "React/React libraries/Material-UI.md",
     "Tests/Unit Tests.md",
     "2022-09-10.md",
-    "JS-TS/Async-await/Async-await.md",
-    "React/React hooks/useEffect.md"
+    "JS-TS/Async-await/Async-await.md"
   ]
 }
