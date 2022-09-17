@@ -139,15 +139,15 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/React libraries/React-Redux.md",
+    "React/React libraries/axios.md",
     "React/React libraries/Material-UI.md",
     "React/ClassComponents/Классовые компоненты.md",
-    "React/React libraries/React-Redux.md",
     "React/React hooks/useCallback.md",
     "React/React.memo().md",
     "JS-TS/Promise/then().md",
     "JS-TS/Promise/Promise.md",
     "React/Redux/Redux.md",
-    "Tests/Unit Tests.md",
-    "2022-09-10.md"
+    "Tests/Unit Tests.md"
   ]
 }
