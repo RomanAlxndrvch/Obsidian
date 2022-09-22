@@ -45,7 +45,13 @@ export type AppRootState = ReturnType<typeof rootReducer> // типизируе�
 
 ### 2 :Пользования стором
 Теперь мы оборачиваем нашу корневую компоненту в **index.tsx** провайдетром с библиотеки [React-Redux](obsidian://open?vault=ObsidianFiles&file=React%2FReact%20libraries%2FReact-Redux) чтобы дать доступ к стору всем дочерним копонентам.
+
+
 ```tsx 
+
+import {Provider} from "react-redux";  
+import {store} from "./reducers/store";
+
 ReactDOM.render(  
     <Provider store={store}>  
         <AppWithRedux/>  
