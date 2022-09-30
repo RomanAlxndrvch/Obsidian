@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JS-TS/Promise/Promise.md",
+            "file": "React/Redux/useSelector.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/Promise/Promise.md",
+                "file": "React/Redux/useSelector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/Promise/Promise.md",
+                "file": "React/Redux/useSelector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS-TS/Promise/Promise.md"
+                "file": "React/Redux/useSelector.md"
               }
             }
           },
@@ -139,6 +139,8 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/Reducer.md",
+    "React/Redux/Redux.md",
     "JS-TS/Promise/Promise.md",
     "Files/JS-TS/Micto and Macro tasks. Event loop.md",
     "JS-TS/Async-await/Async-await.md",
@@ -146,8 +148,6 @@
     "JS-TS/JS-TS methods/structuredClone() - копирования обьекта.md",
     "React/React hooks/useEffect.md",
     "React/React libraries/Material-UI.md",
-    "React/React libraries/React-Redux.md",
-    "React/Redux/Redux.md",
-    "React/React hooks/useCallback.md"
+    "React/React libraries/React-Redux.md"
   ]
 }
