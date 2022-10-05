@@ -4,6 +4,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9cCL92uiMaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Link](https://youtu.be/9cCL92uiMaw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pEl0aoJkWYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 React.memo — это [компонент высшего порядка](https://ru.reactjs.org/docs/higher-order-components.html).
 [Компонент высшего порядка](https://ru.reactjs.org/docs/higher-order-components.html) _Если ваш компонент всегда рендерит одно и то же при неменяющихся пропсах, вы можете обернуть его в вызов `React.memo` для повышения производительности в некоторых случаях, мемоизируя тем самым результат. Это значит, что React будет использовать результат последнего рендера, избегая повторного рендеринга._
