@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JS-TS/Promise/Promise.allSettled().md",
+            "file": "JS-TS/Async-await/Async-await.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/Promise/Promise.allSettled().md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/Promise/Promise.allSettled().md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS-TS/Promise/Promise.allSettled().md"
+                "file": "JS-TS/Async-await/Async-await.md"
               }
             }
           },
@@ -139,11 +139,11 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
-    "JS-TS/Promise/Promise.all.md",
+    "JS-TS/Async-await/Async-await.md",
     "JS-TS/Promise/Promise.md",
     "JS-TS/Promise/Promise.allSettled().md",
+    "JS-TS/Promise/Promise.all.md",
     "JS-TS/Promise/catch().md",
-    "JS-TS/Async-await/Async-await.md",
     "React/React.memo().md",
     "Files/JS-TS/Micto and Macro tasks. Event loop.md",
     "React/Redux/useSelector.md",
