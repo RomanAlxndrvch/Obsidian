@@ -13,6 +13,10 @@ npx storybook init
 
 If you run into issues with the installation, check the [Troubleshooting section](https://storybook.js.org/docs/react/get-started/install#troubleshooting) below for guidance on how to solve it.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUyPdcqWeRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ![[StoryBook example.png]]
 
 -------------------------------------------------------------
