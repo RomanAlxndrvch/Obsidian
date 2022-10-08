@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/React libraries/Story book.md",
+            "file": "React/React libraries/SotyBook/Декораторы.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React libraries/Story book.md",
+                "file": "React/React libraries/SotyBook/Декораторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React libraries/Story book.md",
+                "file": "React/React libraries/SotyBook/Декораторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React libraries/Story book.md"
+                "file": "React/React libraries/SotyBook/Декораторы.md"
               }
             }
           },
@@ -139,6 +139,8 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/React libraries/SotyBook/Декораторы.md",
+    "React/React libraries/SotyBook/Story book.md",
     "JS-TS/Promise/Promise.md",
     "JS-TS/Async-await/Async-await.md",
     "JS-TS/Promise/Promise.allSettled().md",
@@ -146,8 +148,6 @@
     "JS-TS/Promise/catch().md",
     "React/React.memo().md",
     "Files/JS-TS/Micto and Macro tasks. Event loop.md",
-    "React/Redux/useSelector.md",
-    "React/Reducer.md",
-    "React/Redux/Redux.md"
+    "React/Redux/useSelector.md"
   ]
 }
