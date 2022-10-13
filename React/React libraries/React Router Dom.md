@@ -14,3 +14,6 @@ Cтандартная библиотека маршрутизации (routing) 
 [06 - Query параметры](https://www.youtube.com/watch?time_continue=1&v=ZmBUq3v03so&feature=emb_logo)
 
 ![[BrowserRouter.PNG]]
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_X3dVadZp2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

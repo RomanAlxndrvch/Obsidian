@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/React hooks/useEffect.md",
+            "file": "React/React libraries/React Router Dom.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React hooks/useEffect.md",
+                "file": "React/React libraries/React Router Dom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React hooks/useEffect.md",
+                "file": "React/React libraries/React Router Dom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React hooks/useEffect.md"
+                "file": "React/React libraries/React Router Dom.md"
               }
             }
           },
@@ -139,6 +139,7 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/React hooks/useEffect.md",
     "React/ClassComponents/Классовые компоненты.md",
     "React/Redux/Thunk.md",
     "React/React libraries/React-Redux.md",
@@ -147,7 +148,6 @@
     "React/React libraries/SotyBook/Декораторы.md",
     "React/React libraries/SotyBook/Story book.md",
     "JS-TS/Promise/Promise.md",
-    "JS-TS/Async-await/Async-await.md",
-    "JS-TS/Promise/Promise.allSettled().md"
+    "JS-TS/Async-await/Async-await.md"
   ]
 }
