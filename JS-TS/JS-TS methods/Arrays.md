@@ -3,7 +3,12 @@
 
 # ==Arrays==
 [Documentation](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array)
-[Popular methods](obsidian://open?vault=ObsidianFiles&file=Files%2FJS-methods.jpg)
+[Popular methods](obsidian://open?vault=ObsidianFiles&file=Files%2FJS-TS%2FJS-methods.jpg)
+
+
+
+
+
 
 ## To new array :
 >[!  To new array]

@@ -7,12 +7,8 @@
         "id": "4cd1b418337bf2ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "React/React hooks/useEffect.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "3ab55a4aa4f5f8ac",
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React hooks/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React hooks/useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/React hooks/useEffect.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4cd1b418337bf2ff",
+  "active": "9d50d49243899ed7",
   "lastOpenFiles": [
-    "React/Redux/Thunk.md",
-    "React/React libraries/React Router Dom.md",
-    "React/React hooks/useEffect.md",
-    "React/ClassComponents/Классовые компоненты.md",
-    "React/React libraries/React-Redux.md",
-    "Tests/Unit Tests.md",
-    "React/React libraries/react-icons.md",
-    "React/React libraries/SotyBook/Декораторы.md",
-    "React/React libraries/SotyBook/Story book.md",
-    "JS-TS/Promise/Promise.md"
+    "Files/JS-TS/JS-methods.jpg",
+    "JS-TS/JS-TS methods/Arrays.md",
+    "Files/JS-TS/Lexical environmen (Лекчичкское окружение) и РЕКУРСИЯ.md",
+    "Files/JS-TS/Micto and Macro tasks. Event loop.md",
+    "Files/JS-TS/ReturnType_typeof_.png",
+    "Files/JS-TS/SliceCopyArray.png",
+    "Files/JS-TS/typeof.png",
+    "JS-TS/JS-TS.md",
+    "JS-TS/Чистая функция.md",
+    "React/React libraries/React-Redux.md"
   ]
 }
