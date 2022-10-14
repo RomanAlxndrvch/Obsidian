@@ -16,6 +16,8 @@ If you run into issues with the installation, check the [Troubleshooting sectio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZUyPdcqWeRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ajj3kw-8U8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ![[StoryBook example.png]]
 

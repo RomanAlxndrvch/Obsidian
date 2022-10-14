@@ -130,8 +130,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d50d49243899ed7",
+  "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/React libraries/SotyBook/Story book.md",
     "Files/JS-TS/JS-methods.jpg",
     "JS-TS/JS-TS methods/Arrays.md",
     "Files/JS-TS/Lexical environmen (Лекчичкское окружение) и РЕКУРСИЯ.md",
@@ -140,7 +141,6 @@
     "Files/JS-TS/SliceCopyArray.png",
     "Files/JS-TS/typeof.png",
     "JS-TS/JS-TS.md",
-    "JS-TS/Чистая функция.md",
-    "React/React libraries/React-Redux.md"
+    "JS-TS/Чистая функция.md"
   ]
 }
