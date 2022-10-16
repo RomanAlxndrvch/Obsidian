@@ -1,5 +1,6 @@
 {
   "cssTheme": "Atom",
   "interfaceFontFamily": "Microsoft JhengHei UI,Segoe UI",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "accentColor": ""
 }
