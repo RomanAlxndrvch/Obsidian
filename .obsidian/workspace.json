@@ -11,8 +11,12 @@
             "id": "4cd1b418337bf2ff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/React libraries/SotyBook/Story book.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/React libraries/SotyBook/Story book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/React libraries/SotyBook/Story book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/React libraries/SotyBook/Story book.md"
+              }
             }
           },
           {
@@ -143,6 +151,7 @@
   },
   "active": "4cd1b418337bf2ff",
   "lastOpenFiles": [
+    "React/Redux/useSelector.md",
     "React/React libraries/SotyBook/Декораторы(Истории с редаксом).md",
     "React/Redux/Redux.md",
     "React/React libraries/SotyBook/Story book.md",
@@ -151,7 +160,6 @@
     "Files/JS-TS/Lexical environmen (Лекчичкское окружение) и РЕКУРСИЯ.md",
     "Files/JS-TS/Micto and Macro tasks. Event loop.md",
     "Files/JS-TS/ReturnType_typeof_.png",
-    "Files/JS-TS/SliceCopyArray.png",
-    "Files/JS-TS/typeof.png"
+    "Files/JS-TS/SliceCopyArray.png"
   ]
 }
