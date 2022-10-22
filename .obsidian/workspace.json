@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "17552877c94856cb",
+        "id": "00adfe0c5d9a8023",
         "type": "tabs",
         "children": [
           {
-            "id": "4cd1b418337bf2ff",
+            "id": "b1bf68010e41bbf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redux/useSelector.md",
+                "file": "JS-TS/This, function constructor, Call,Apply,Bind.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "3ab55a4aa4f5f8ac",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux/useSelector.md",
+                "file": "JS-TS/This, function constructor, Call,Apply,Bind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux/useSelector.md",
+                "file": "JS-TS/This, function constructor, Call,Apply,Bind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redux/useSelector.md"
+                "file": "JS-TS/This, function constructor, Call,Apply,Bind.md"
               }
             }
           },
@@ -143,23 +142,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4cd1b418337bf2ff",
+  "active": "b1bf68010e41bbf9",
   "lastOpenFiles": [
-    "React/React libraries/SotyBook/Story book.md",
+    "JS-TS/This, function constructor, Call,Apply,Bind.md",
     "React/Redux/useSelector.md",
+    "React/React libraries/SotyBook/Story book.md",
     "React/React libraries/SotyBook/Декораторы(Истории с редаксом).md",
     "React/Redux/Redux.md",
     "Files/JS-TS/JS-methods.jpg",
     "JS-TS/JS-TS methods/Arrays.md",
     "Files/JS-TS/Lexical environmen (Лекчичкское окружение) и РЕКУРСИЯ.md",
     "Files/JS-TS/Micto and Macro tasks. Event loop.md",
-    "Files/JS-TS/ReturnType_typeof_.png",
-    "Files/JS-TS/SliceCopyArray.png"
+    "Files/JS-TS/ReturnType_typeof_.png"
   ]
 }
