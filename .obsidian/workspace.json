@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS-TS/This, function constructor, Call,Apply,Bind.md",
+                "file": "React/Redux/Redux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/This, function constructor, Call,Apply,Bind.md",
+                "file": "React/Redux/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/This, function constructor, Call,Apply,Bind.md",
+                "file": "React/Redux/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS-TS/This, function constructor, Call,Apply,Bind.md"
+                "file": "React/Redux/Redux.md"
               }
             }
           },
