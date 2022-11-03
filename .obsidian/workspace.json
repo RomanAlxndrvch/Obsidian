@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redux/Redux.md",
+                "file": "React/React libraries/Material-UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux/Redux.md",
+                "file": "React/React libraries/Material-UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux/Redux.md",
+                "file": "React/React libraries/Material-UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redux/Redux.md"
+                "file": "React/React libraries/Material-UI.md"
               }
             }
           },
@@ -150,15 +150,15 @@
   },
   "active": "b1bf68010e41bbf9",
   "lastOpenFiles": [
+    "React/React libraries/React Router Dom.md",
+    "React/Redux/Redux.md",
     "JS-TS/This, function constructor, Call,Apply,Bind.md",
     "React/Redux/useSelector.md",
     "React/React libraries/SotyBook/Story book.md",
     "React/React libraries/SotyBook/Декораторы(Истории с редаксом).md",
-    "React/Redux/Redux.md",
     "Files/JS-TS/JS-methods.jpg",
     "JS-TS/JS-TS methods/Arrays.md",
     "Files/JS-TS/Lexical environmen (Лекчичкское окружение) и РЕКУРСИЯ.md",
-    "Files/JS-TS/Micto and Macro tasks. Event loop.md",
-    "Files/JS-TS/ReturnType_typeof_.png"
+    "Files/JS-TS/Micto and Macro tasks. Event loop.md"
   ]
 }
