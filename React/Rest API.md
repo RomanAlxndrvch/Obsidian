@@ -25,6 +25,43 @@ export const GetTodolists = () => {
 ```
 
 
+# Типизация ответа запроса
+```tsx
+
+export type CreateTodolistResponseType = {  
+  
+    resultCode: number  
+    messages: Array<string>  
+    data: {  
+        item: TodolistType  
+    }  
+  
+}
+createTodolist(title: string) {  
+    return axios.post<CreateTodolistResponseType>('https://social-network.samuraijs.com/api/1.1/todo-lists', {title: title}, settings)  
+},
+```
+
+# Generic Type 
+```tsx
+type ResponseType<D> = {  
+    resultCode: number  
+    messages: Array<string>  
+    data: D  
+}
+
+createTodolist(title: string) {  
+    return axios.post<ResponseType<{ item: TodolistType }>>('https://social-network.samuraijs.com/api/1.1/todo-lists', {title: title}, settings)  
+},
+```
+
+Кусок о типизации дженерик
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmk0Bts6UX8?start=7115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+тут посмотреть кусок о типизации
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmk0Bts6UX8?start=6704" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Для всем мутабельных операций нужно добавлять в settings API key
 
 ### post - добавлений данных. Ждет 3 параметра. 
