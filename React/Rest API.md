@@ -90,7 +90,7 @@ export const CreateTodolist = () => {
 ```
 
 
-### put - добавления данных. Ждет 3 параметра
+### put - обновления данных. Ждет 3 параметра
 
 ```tsx
 const settings = {  
