@@ -59,7 +59,7 @@ createTodolist(title: string) {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gmk0Bts6UX8?start=7115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-тут посмотреть кусок о типизации
+тут посмотреть кусок о всей типизации
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gmk0Bts6UX8?start=6704" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Для всем мутабельных операций нужно добавлять в settings API key
@@ -140,3 +140,26 @@ export const DeleteTodolist = () => {
     return <div>{JSON.stringify(state)}</div>  
 }
 ```
+
+# Axios Instance
+
+```tsx
+const instance = axios.create({  
+    baseURL: 'https://social-network.samuraijs.com/api/1.1/',  
+    withCredentials: true,  
+    headers: {  
+        'API-KEY': '8fc044d8-3f5e-469a-b681-136f15cb55d0'  
+    }  
+})
+```
+
+Using
+```tsx
+getTodolists() {  
+    return instance.get<Array<TodolistType>>('todo-lists/')  
+},  
+createTodolist(title: string) {  
+    return instance.post<ResponseType<{ item: TodolistType }>>('todo-lists/', {title: title})  
+},
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmk0Bts6UX8?start=8114" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

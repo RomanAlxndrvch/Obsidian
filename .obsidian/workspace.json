@@ -11,8 +11,12 @@
             "id": "b6fd5a74d847a85c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/Rest API.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/Rest API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/Rest API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/Rest API.md"
+              }
             }
           },
           {
@@ -138,7 +146,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "9d50d49243899ed7",
+  "active": "b6fd5a74d847a85c",
   "lastOpenFiles": [
     "React/Rest API.md",
     "React/React libraries/Material-UI.md",
