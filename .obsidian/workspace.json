@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f53714db9d06101f",
+        "id": "5e802da0fec4f874",
         "type": "tabs",
         "children": [
           {
-            "id": "04e2d8d3328dc02f",
+            "id": "443e865cb3560848",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -137,8 +137,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "04e2d8d3328dc02f",
+  "active": "443e865cb3560848",
   "lastOpenFiles": [
+    "React/ClassComponents/setState.md",
+    "React/ClassComponents/componentDidUpdate.md",
     "JS-TS/Async-await/Async-await.md",
     "React/Redux/Compose.md",
     "React/Redux/Redux.md",
@@ -146,8 +148,6 @@
     "React/React libraries/Material-UI.md",
     "React/React libraries/React Router Dom.md",
     "JS-TS/This, function constructor, Call,Apply,Bind.md",
-    "React/Redux/useSelector.md",
-    "React/React libraries/SotyBook/Story book.md",
-    "React/React libraries/SotyBook/Декораторы(Истории с редаксом).md"
+    "React/Redux/useSelector.md"
   ]
 }
