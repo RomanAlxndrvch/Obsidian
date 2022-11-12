@@ -11,15 +11,24 @@
             "id": "443e865cb3560848",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "454d102437f9b80d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "React/ClassComponents/componentDidUpdate.md",
+                "file": "React/React libraries/redux-form.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/ClassComponents/componentDidUpdate.md",
+                "file": "React/React libraries/redux-form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/ClassComponents/componentDidUpdate.md",
+                "file": "React/React libraries/redux-form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/ClassComponents/componentDidUpdate.md"
+                "file": "React/React libraries/redux-form.md"
               }
             }
           },
@@ -145,8 +154,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "443e865cb3560848",
+  "active": "454d102437f9b80d",
   "lastOpenFiles": [
+    "React/Redux/Thunk.md",
     "React/ClassComponents/componentDidUpdate.md",
     "React/ClassComponents/setState.md",
     "React/Rest API.md",
@@ -155,7 +165,6 @@
     "React/Redux/Redux.md",
     "JS-TS/Async-await/Async-await.md",
     "React/Redux/Compose.md",
-    "React/React libraries/Material-UI.md",
-    "React/React libraries/React Router Dom.md"
+    "React/React libraries/Material-UI.md"
   ]
 }
