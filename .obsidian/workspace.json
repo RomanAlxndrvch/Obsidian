@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/ClassComponents/setState.md",
+                "file": "React/ClassComponents/componentDidUpdate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/ClassComponents/setState.md",
+                "file": "React/ClassComponents/componentDidUpdate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/ClassComponents/setState.md",
+                "file": "React/ClassComponents/componentDidUpdate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/ClassComponents/setState.md"
+                "file": "React/ClassComponents/componentDidUpdate.md"
               }
             }
           },
@@ -147,12 +147,12 @@
   },
   "active": "443e865cb3560848",
   "lastOpenFiles": [
+    "React/ClassComponents/componentDidUpdate.md",
+    "React/ClassComponents/setState.md",
     "React/Rest API.md",
     "React/Reducer.md",
     "React/React hooks/useReducer.md",
     "React/Redux/Redux.md",
-    "React/ClassComponents/setState.md",
-    "React/ClassComponents/componentDidUpdate.md",
     "JS-TS/Async-await/Async-await.md",
     "React/Redux/Compose.md",
     "React/React libraries/Material-UI.md",

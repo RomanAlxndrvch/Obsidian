@@ -19,3 +19,15 @@ componentDidUpdate(prevProps) {
 }
 
 ```
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wcwG-pofoZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+```tsx
+componentDidUpdate(prevProps: ProfileStatusPropsType, prevState: typeof this.state) {  
+    if (this.props.status !== prevProps.status) {  
+        this.setState({status: this.props.status})  
+    }  
+}
+```
