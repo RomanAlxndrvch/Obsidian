@@ -11,8 +11,12 @@
             "id": "443e865cb3560848",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/ClassComponents/setState.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/ClassComponents/setState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/ClassComponents/setState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/ClassComponents/setState.md"
+              }
             }
           },
           {
@@ -139,15 +147,15 @@
   },
   "active": "443e865cb3560848",
   "lastOpenFiles": [
+    "React/Rest API.md",
+    "React/Reducer.md",
+    "React/React hooks/useReducer.md",
+    "React/Redux/Redux.md",
     "React/ClassComponents/setState.md",
     "React/ClassComponents/componentDidUpdate.md",
     "JS-TS/Async-await/Async-await.md",
     "React/Redux/Compose.md",
-    "React/Redux/Redux.md",
-    "React/Rest API.md",
     "React/React libraries/Material-UI.md",
-    "React/React libraries/React Router Dom.md",
-    "JS-TS/This, function constructor, Call,Apply,Bind.md",
-    "React/Redux/useSelector.md"
+    "React/React libraries/React Router Dom.md"
   ]
 }
