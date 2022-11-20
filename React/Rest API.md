@@ -58,6 +58,8 @@ createTodolist(title: string) {
 Кусок о типизации дженерик
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gmk0Bts6UX8?start=7115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Типизация и даты на отправку и прием
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nb-3VBwcJXA?start=13247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 тут посмотреть кусок о всей типизации
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gmk0Bts6UX8?start=6704" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
