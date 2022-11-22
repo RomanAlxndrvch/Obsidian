@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "443e865cb3560848",
+            "id": "454d102437f9b80d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "454d102437f9b80d",
+            "id": "154ad04a3a597404",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -146,17 +146,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "454d102437f9b80d",
+  "active": "154ad04a3a597404",
   "lastOpenFiles": [
+    "JS-TS/type Enum.md",
+    "React/Reducer.md",
+    "React/Redux/Redux.md",
     "React/Rest API.md",
     "JS-TS/Async-await/Async-await.md",
     "React/React libraries/redux-form.md",
     "React/Redux/Thunk.md",
     "React/ClassComponents/componentDidUpdate.md",
     "React/ClassComponents/setState.md",
-    "React/Reducer.md",
-    "React/React hooks/useReducer.md",
-    "React/Redux/Redux.md",
-    "React/Redux/Compose.md"
+    "React/React hooks/useReducer.md"
   ]
 }
