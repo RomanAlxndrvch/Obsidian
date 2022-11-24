@@ -148,6 +148,7 @@
   },
   "active": "154ad04a3a597404",
   "lastOpenFiles": [
+    "React/React libraries/SotyBook/Story book.md",
     "JS-TS/type Enum.md",
     "React/Reducer.md",
     "React/Redux/Redux.md",
@@ -156,7 +157,6 @@
     "React/React libraries/redux-form.md",
     "React/Redux/Thunk.md",
     "React/ClassComponents/componentDidUpdate.md",
-    "React/ClassComponents/setState.md",
-    "React/React hooks/useReducer.md"
+    "React/ClassComponents/setState.md"
   ]
 }
