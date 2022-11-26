@@ -1,4 +1,4 @@
-[[Promise]] #promise 
+ [[Promise]] #promise 
 
 [Documenttaion](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
 

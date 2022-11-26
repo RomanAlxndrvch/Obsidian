@@ -130,6 +130,10 @@ const promise = new Promise((resolve, reject) => {
         reject('Some err')  
     }, 2000)  
 })
+
+promise.catch((err) => {  
+    console.log(err)  
+})
 ```
 В случае если в промисе ошибка,то ее прочитать можна с помощью метода [==catch==](obsidian://open?vault=ObsidianFiles&file=JS-TS%2FPromise%2Fcatch())
 

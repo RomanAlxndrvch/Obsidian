@@ -19,8 +19,12 @@
             "id": "154ad04a3a597404",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JS-TS/Promise/then().md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS-TS/Promise/then().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS-TS/Promise/then().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS-TS/Promise/then().md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
   },
   "active": "154ad04a3a597404",
   "lastOpenFiles": [
+    "JS-TS/Promise/Promise.md",
     "React/React libraries/SotyBook/Story book.md",
     "JS-TS/type Enum.md",
     "React/Reducer.md",
@@ -156,7 +165,6 @@
     "JS-TS/Async-await/Async-await.md",
     "React/React libraries/redux-form.md",
     "React/Redux/Thunk.md",
-    "React/ClassComponents/componentDidUpdate.md",
-    "React/ClassComponents/setState.md"
+    "React/ClassComponents/componentDidUpdate.md"
   ]
 }
