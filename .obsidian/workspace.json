@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS-TS/Promise/then().md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/Promise/then().md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/Promise/then().md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS-TS/Promise/then().md"
+                "file": "JS-TS/Async-await/Async-await.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "154ad04a3a597404",
   "lastOpenFiles": [
+    "JS-TS/Promise/then().md",
     "JS-TS/Promise/Promise.md",
     "React/React libraries/SotyBook/Story book.md",
     "JS-TS/type Enum.md",
@@ -164,7 +165,6 @@
     "React/Rest API.md",
     "JS-TS/Async-await/Async-await.md",
     "React/React libraries/redux-form.md",
-    "React/Redux/Thunk.md",
-    "React/ClassComponents/componentDidUpdate.md"
+    "React/Redux/Thunk.md"
   ]
 }
