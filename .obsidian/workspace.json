@@ -19,12 +19,8 @@
             "id": "154ad04a3a597404",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS-TS/Async-await/Async-await.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "3ab55a4aa4f5f8ac",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/Async-await/Async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/Async-await/Async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS-TS/Async-await/Async-await.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,15 +149,15 @@
   },
   "active": "154ad04a3a597404",
   "lastOpenFiles": [
+    "React/React hooks/useCallback.md",
+    "JS-TS/Promise/Promise.allSettled().md",
+    "JS-TS/Promise/Promise.all.md",
+    "JS-TS/Async-await/Async-await.md",
     "JS-TS/Promise/then().md",
     "JS-TS/Promise/Promise.md",
     "React/React libraries/SotyBook/Story book.md",
     "JS-TS/type Enum.md",
     "React/Reducer.md",
-    "React/Redux/Redux.md",
-    "React/Rest API.md",
-    "JS-TS/Async-await/Async-await.md",
-    "React/React libraries/redux-form.md",
-    "React/Redux/Thunk.md"
+    "React/Redux/Redux.md"
   ]
 }
