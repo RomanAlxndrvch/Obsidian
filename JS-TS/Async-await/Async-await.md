@@ -8,6 +8,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Y2KOWRKvJI?start=5475" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D563_Obu59M?start=8445" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 1 : Объявление `async function` определяет _асинхронную функцию_, которая возвращает объект [Promise](obsidian://open?vault=ObsidianFiles&file=JS-TS%2FPromise%2FPromise)
 
