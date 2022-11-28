@@ -11,8 +11,12 @@
             "id": "454d102437f9b80d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JS-TS/Async-await/Async-await.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS-TS/Async-await/Async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS-TS/Async-await/Async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS-TS/Async-await/Async-await.md"
+              }
             }
           },
           {
@@ -140,10 +148,10 @@
   },
   "active": "454d102437f9b80d",
   "lastOpenFiles": [
+    "JS-TS/Promise/catch().md",
     "JS-TS/Async-await/Async-await.md",
     "JS-TS/Promise/then().md",
     "JS-TS/Promise/Promise.all.md",
-    "JS-TS/Promise/catch().md",
     "JS-TS/Promise/Promise.md",
     "React/React hooks/useCallback.md",
     "JS-TS/Promise/Promise.allSettled().md",

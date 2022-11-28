@@ -47,3 +47,27 @@ const getDataAsync = async (e) => {
 }
 ```
 
+```js
+function promiseFunc() {  
+    Promise.all([api.getVacanciesCountFromMicrosoft(), api.getVacanciesCountFromGoogle()])  
+        .then(res => {  
+            return res.reduce((a, b) => a + b, 0)  
+        })  
+        .then(res => {  
+            return api.sendStudentsCountToItKamasutra(res)  
+        })  
+        .then(res => {  
+            console.log(res)  
+        })  
+}  
+  
+async function asyncAwaitFunc() {  
+    const totalVacancies = await Promise.all([api.getVacanciesCountFromMicrosoft(), api.getVacanciesCountFromGoogle()])  
+    const vacanciesSum = totalVacancies.reduce((a, b) => a + b, 0)  
+    const responseFromKamasutra = await api.sendStudentsCountToItKamasutra(vacanciesSum)  
+    console.log(responseFromKamasutra.message)  
+  
+promiseFunc()  
+asyncAwaitFunc()
+
+```
