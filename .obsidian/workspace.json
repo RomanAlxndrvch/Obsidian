@@ -19,12 +19,8 @@
             "id": "eaf583831572bdbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS-TS/Prototype.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/Prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/Prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS-TS/Prototype.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,6 +148,8 @@
   },
   "active": "eaf583831572bdbe",
   "lastOpenFiles": [
+    "Files/JS-TS/Micto and Macro tasks. Event loop.md",
+    "JS-TS/Prototype.md",
     "JS-TS/Async-await/Async-await.md",
     "JS-TS/Promise/catch().md",
     "JS-TS/Promise/then().md",
@@ -163,8 +157,6 @@
     "JS-TS/Promise/Promise.md",
     "React/React hooks/useCallback.md",
     "JS-TS/Promise/Promise.allSettled().md",
-    "React/React libraries/SotyBook/Story book.md",
-    "JS-TS/type Enum.md",
-    "React/Reducer.md"
+    "React/React libraries/SotyBook/Story book.md"
   ]
 }
