@@ -97,9 +97,16 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "#soft",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -2.2,
   "nodeSizeMultiplier": 1.42708333333333,

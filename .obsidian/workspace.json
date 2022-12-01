@@ -8,23 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "454d102437f9b80d",
+            "id": "15a5a3001e6b7d2f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "eaf583831572bdbe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Apps-Soft-Other/Postman.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "3ab55a4aa4f5f8ac",
@@ -90,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Apps-Soft-Other/Postman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Apps-Soft-Other/Postman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Apps-Soft-Other/Postman.md"
+              }
             }
           },
           {
@@ -146,8 +146,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "eaf583831572bdbe",
+  "active": "15a5a3001e6b7d2f",
   "lastOpenFiles": [
+    "Apps-Soft-Other/Postman.md",
     "Files/JS-TS/Micto and Macro tasks. Event loop.md",
     "JS-TS/Prototype.md",
     "JS-TS/Async-await/Async-await.md",
@@ -156,7 +157,6 @@
     "JS-TS/Promise/Promise.all.md",
     "JS-TS/Promise/Promise.md",
     "React/React hooks/useCallback.md",
-    "JS-TS/Promise/Promise.allSettled().md",
-    "React/React libraries/SotyBook/Story book.md"
+    "JS-TS/Promise/Promise.allSettled().md"
   ]
 }
