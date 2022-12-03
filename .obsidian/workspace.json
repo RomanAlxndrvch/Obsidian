@@ -11,8 +11,12 @@
             "id": "15a5a3001e6b7d2f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tests/Unit Tests.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tests/Unit Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tests/Unit Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tests/Unit Tests.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
   },
   "active": "15a5a3001e6b7d2f",
   "lastOpenFiles": [
+    "React/Redux/Thunk.md",
     "Tests/Unit Tests.md",
     "React/Rest API.md",
     "React/Reducer.md",
@@ -156,7 +165,6 @@
     "React/React libraries/axios.md",
     "Files/JS-TS/Micto and Macro tasks. Event loop.md",
     "JS-TS/Prototype.md",
-    "JS-TS/Async-await/Async-await.md",
-    "JS-TS/Promise/catch().md"
+    "JS-TS/Async-await/Async-await.md"
   ]
 }
