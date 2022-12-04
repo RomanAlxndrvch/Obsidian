@@ -54,7 +54,7 @@ import {store} from "./reducers/store";
 
 ReactDOM.render(  
     <Provider store={store}>  
-        <AppWithRedux/>  
+        <App/>  
     </Provider>  
     ,  
     document.getElementById('root'));

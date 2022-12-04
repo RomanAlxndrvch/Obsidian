@@ -11,8 +11,12 @@
             "id": "50df96a1650944d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/Redux/Redux.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/Redux/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/Redux/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/Redux/Redux.md"
+              }
             }
           },
           {
@@ -139,15 +147,15 @@
   },
   "active": "50df96a1650944d2",
   "lastOpenFiles": [
+    "JS-TS/Копирования Обьектов и Массивов.md",
+    "React/Reducer.md",
+    "React/Redux/Thunk.md",
     "JS-TS/Async-await/Async-await.md",
     "React/Redux/useSelector.md",
     "React/Redux/Thunk types.md",
-    "React/Redux/Thunk.md",
     "Tests/Unit Tests.md",
     "React/Rest API.md",
-    "React/Reducer.md",
     "React/Redux/Redux.md",
-    "Apps-Soft-Other/Postman.md",
-    "React/React libraries/axios.md"
+    "Apps-Soft-Other/Postman.md"
   ]
 }

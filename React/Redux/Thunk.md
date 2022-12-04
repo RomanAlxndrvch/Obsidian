@@ -16,6 +16,8 @@ let store = createStore(rootReducer, applyMiddleware(thunk))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C-C3FLfNukU?start=1809" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x1b1job1lUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Санка - это функция которая умеет диспатчить обычные action в редюсерах,и идея этой санка что ее тоже можна задиспатчить
 
