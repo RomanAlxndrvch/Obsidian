@@ -40,3 +40,24 @@ export const getUsersThunkCreator = (currentPage:number,pageSize:number) => (dis
 Через currentPage и pageSize мы можем давать нашей санке нужные данные 
 
 _______________
+
+Так же в санке можна получить доступ к стейту
+
+```tsx
+export const changeTaskStatusTC = (taskId: string, status: TaskStatuses, todoListId: string) => (dispatch: AppDispatch, getState: () => AppRootStateType) => {  
+    const state = getState()  
+    const task = state.tasks[todoListId].find(el => el.id === taskId)  
+  
+    if (!task) {  
+        console.warn('TASK DID NOT FIND IN STATE')  
+        return  
+    }  
+  
+    const model: UpdateTaskModelType = {...task, status: status}  
+    todolistsAPI.updateTask(todoListId, taskId, model).then(res => {  
+        dispatch(changeTaskStatusAC(taskId, status, todoListId))  
+    })  
+}
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x1b1job1lUc?start=5417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
