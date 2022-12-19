@@ -11,15 +11,24 @@
             "id": "50df96a1650944d2",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cae0bf6b6bdfcbf1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React libraries/redux-form.md",
+                "file": "JS-TS/Classes,OOP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React libraries/redux-form.md",
+                "file": "JS-TS/Classes,OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React libraries/redux-form.md",
+                "file": "JS-TS/Classes,OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React libraries/redux-form.md"
+                "file": "JS-TS/Classes,OOP.md"
               }
             }
           },
@@ -145,17 +154,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "50df96a1650944d2",
+  "active": "cae0bf6b6bdfcbf1",
   "lastOpenFiles": [
-    "JS-TS/Копирования Обьектов и Массивов.md",
     "React/Rest API.md",
+    "React/React libraries/axios.md",
+    "React/React libraries/redux-form.md",
+    "JS-TS/Копирования Обьектов и Массивов.md",
     "React/Redux/Thunk.md",
     "JS-TS/Async-await/Async-await.md",
     "React/Redux/Redux.md",
     "React/Reducer.md",
     "React/Redux/useSelector.md",
-    "React/Redux/Thunk types.md",
-    "Tests/Unit Tests.md",
-    "Apps-Soft-Other/Postman.md"
+    "React/Redux/Thunk types.md"
   ]
 }
