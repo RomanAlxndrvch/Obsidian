@@ -19,12 +19,8 @@
             "id": "cae0bf6b6bdfcbf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS-TS/Classes,OOP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/Classes,OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/Classes,OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS-TS/Classes,OOP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,15 +148,15 @@
   },
   "active": "cae0bf6b6bdfcbf1",
   "lastOpenFiles": [
+    "JS-TS/JS-TS methods/reduce().md",
+    "React/Redux/Thunk.md",
+    "JS-TS/Classes,OOP.md",
     "React/Rest API.md",
     "React/React libraries/axios.md",
     "React/React libraries/redux-form.md",
     "JS-TS/Копирования Обьектов и Массивов.md",
-    "React/Redux/Thunk.md",
     "JS-TS/Async-await/Async-await.md",
     "React/Redux/Redux.md",
-    "React/Reducer.md",
-    "React/Redux/useSelector.md",
-    "React/Redux/Thunk types.md"
+    "React/Reducer.md"
   ]
 }
