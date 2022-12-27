@@ -32,3 +32,76 @@ coder1.code()
 ```
 так мы можем наследоваться от других классов. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k70t3svgTss?start=2924" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ _______
+```js
+class User {  
+    age = 23 // свойства класса. Они заносятся в сам экземпляр класса  
+  
+    static maxNameLength = 16 // статические свойства. Они доступны только классу и не доступны экземпляру.  
+  
+    static validateUserName(name) {  
+        if (this.maxNameLength < name.length) { // статические свойства. Они доступны только классу и не доступны экземпляру  
+            console.log("Err")  
+        }  
+    }  
+  
+    constructor(name) { // функция-конструктор  
+        this.name = name  
+        User.validateUserName(name)  
+    }  
+  
+    sayHi() {  
+        console.log(this.name) // метод класса. Они занесутся в прототип класса  
+    }  
+}
+```
+
+### Приватный поля (Privat field)
+
+```js
+class User {  
+    #name // создания приватного поля  
+  
+    constructor(name) {  
+        this.#name = name  
+    }  
+  
+    getName() {  
+        console.log(this.#name)  
+    }  
+}  
+  
+const user = new User('Alex')  
+console.log(user.#name) // Так к свойству клкасса не добратся  
+user.getName() // Так добираются до приватных полях в классе
+```
+
+```js
+class User {  
+    #name // создания приватного поля  
+  
+    constructor(name) {  
+        this.#name = name  
+    }  
+  
+    getName() {  
+        console.log(this.#name) // Вариант обычный  
+    }  
+  
+    setName(value) {  
+        this.#name = value // Вариант обычный  
+    }  
+  
+    get name() {  
+        return this.#name // Вариант с ООП с гетером  
+    }  
+  
+    set name(value) {  
+        return this.#name = value // Вариант с ООП с сетером  
+    }  
+}  
+  
+const user = new User('Chel')  
+user.name = 'Chelik ' // Доступ к сэттэру  
+console.log(user.name) // Доступ к гэттэру
+```
