@@ -105,3 +105,32 @@ const user = new User('Chel')
 user.name = 'Chelik ' // Доступ к сэттэру  
 console.log(user.name) // Доступ к гэттэру
 ```
+
+### EXTENDS (Наследования)
+```js
+
+class Car {  
+    static WHEELS_COUNT = 4  
+  
+    run(model) {  
+        console.log('Car running')  
+    }  
+}  
+  
+class Ford extends Car { // У форта будут все методы форса и Car  
+    fordRun() {  
+        console.log('Ford running')  
+    }  
+}  
+  
+const mondeo = new Ford()  
+  
+mondeo.fordRun()  
+mondeo.run()  
+console.log(Ford.WHEELS_COUNT)
+
+```
+
+
+### Super
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-xopOjN6Ee8?start=4929" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
