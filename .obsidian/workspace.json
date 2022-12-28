@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee2efaa715890bee",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +159,7 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "ee2efaa715890bee",
+  "active": "50df96a1650944d2",
   "lastOpenFiles": [
     "JS-TS/Prototype.md",
     "JS-TS/Classes,OOP.md",
