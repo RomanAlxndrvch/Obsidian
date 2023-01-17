@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f44cf1d822b923fb",
+        "id": "6c9410f54ee88a81",
         "type": "tabs",
         "children": [
           {
-            "id": "50df96a1650944d2",
+            "id": "242324755000b5fa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/Redux/Thunk.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/Redux/Thunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/Redux/Thunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/Redux/Thunk.md"
+              }
             }
           },
           {
@@ -151,15 +159,15 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "50df96a1650944d2",
+  "active": "242324755000b5fa",
   "lastOpenFiles": [
     "React/Redux/Thunk types.md",
+    "React/Redux/Thunk.md",
     "JS-TS/Classes,OOP.md",
     "JS-TS/Prototype.md",
     "JS-TS/Promise/Promise.md",
     "JS-TS/Async-await/Async-await.md",
     "JS-TS/JS-TS methods/reduce().md",
-    "React/Redux/Thunk.md",
     "React/Rest API.md",
     "React/React libraries/axios.md",
     "React/React libraries/redux-form.md"
