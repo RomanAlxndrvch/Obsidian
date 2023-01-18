@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6c9410f54ee88a81",
+        "id": "3f2f5dbf204b6846",
         "type": "tabs",
         "children": [
           {
-            "id": "242324755000b5fa",
+            "id": "1abbaaafde46bd41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Redux/Thunk.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux/Thunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux/Thunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/Redux/Thunk.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,17 +151,17 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "242324755000b5fa",
+  "active": "1abbaaafde46bd41",
   "lastOpenFiles": [
-    "React/Redux/Thunk types.md",
-    "React/Redux/Thunk.md",
-    "JS-TS/Classes,OOP.md",
-    "JS-TS/Prototype.md",
-    "JS-TS/Promise/Promise.md",
+    "React/React libraries/SotyBook/Story book.md",
     "JS-TS/Async-await/Async-await.md",
-    "JS-TS/JS-TS methods/reduce().md",
-    "React/Rest API.md",
+    "React/React libraries/React Router Dom.md",
+    "JS-TS/Classes,OOP.md",
+    "React/Redux/Compose.md",
+    "React/Redux/Redux.md",
     "React/React libraries/axios.md",
-    "React/React libraries/redux-form.md"
+    "Tests/Unit Tests.md",
+    "React/React hooks/useEffect.md",
+    "React/Rest API.md"
   ]
 }
