@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Rest API.md",
+                "file": "React/React libraries/SotyBook/Story book.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Rest API.md",
+                "file": "React/React libraries/SotyBook/Story book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Rest API.md",
+                "file": "React/React libraries/SotyBook/Story book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Rest API.md"
+                "file": "React/React libraries/SotyBook/Story book.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "a08a2846e562d69c",
   "lastOpenFiles": [
+    "React/Rest API.md",
     "React/React libraries/axios.md",
     "React/Redux/Thunk.md",
     "React/React hooks/useState.md",
@@ -169,7 +170,6 @@
     "JS-TS/Async-await/Async-await.md",
     "React/React libraries/React Router Dom.md",
     "JS-TS/Classes,OOP.md",
-    "React/Redux/Compose.md",
-    "React/Redux/Redux.md"
+    "React/Redux/Compose.md"
   ]
 }
