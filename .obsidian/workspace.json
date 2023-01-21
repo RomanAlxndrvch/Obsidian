@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68b51603b0673070",
+        "id": "9abef722b8a29ce6",
         "type": "tabs",
         "children": [
           {
-            "id": "a08a2846e562d69c",
+            "id": "39e77e98d853a3d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React libraries/SotyBook/Story book.md",
+                "file": "React/Redux/Thunk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React libraries/SotyBook/Story book.md",
+                "file": "React/Redux/Thunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React libraries/SotyBook/Story book.md",
+                "file": "React/Redux/Thunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React libraries/SotyBook/Story book.md"
+                "file": "React/Redux/Thunk.md"
               }
             }
           },
@@ -159,17 +159,17 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "a08a2846e562d69c",
+  "active": "39e77e98d853a3d3",
   "lastOpenFiles": [
+    "Tests/Unit Tests.md",
+    "JS-TS/Копирования Обьектов и Массивов.md",
+    "React/Redux/Thunk types.md",
+    "React/React libraries/SotyBook/Story book.md",
     "React/Rest API.md",
     "React/React libraries/axios.md",
     "React/Redux/Thunk.md",
     "React/React hooks/useState.md",
     "React/React hooks/useEffect.md",
-    "React/React libraries/SotyBook/Story book.md",
-    "JS-TS/Async-await/Async-await.md",
-    "React/React libraries/React Router Dom.md",
-    "JS-TS/Classes,OOP.md",
-    "React/Redux/Compose.md"
+    "JS-TS/Async-await/Async-await.md"
   ]
 }
