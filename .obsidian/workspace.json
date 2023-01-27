@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redux/Thunk.md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux/Thunk.md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux/Thunk.md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redux/Thunk.md"
+                "file": "JS-TS/Async-await/Async-await.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "39e77e98d853a3d3",
   "lastOpenFiles": [
+    "React/Redux/Thunk.md",
     "JS-TS/Classes,OOP.md",
     "React/Rest API.md",
     "React/React.memo().md",
@@ -168,7 +169,6 @@
     "React/Redux/Thunk types.md",
     "React/React hooks/useCallback.md",
     "JS-TS/type Enum.md",
-    "React/Redux/Thunk.md",
     "Tests/Unit Tests.md",
     "JS-TS/Копирования Обьектов и Массивов.md"
   ]
