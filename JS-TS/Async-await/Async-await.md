@@ -17,6 +17,10 @@
 -Ошибки мы ловим в блоке catch. Рабоает он так же как и в промисах
 -Выполняем что-то в независимости от ответа в блоке finally. Работает так же как в промисах
 
+# Санка на Async-await
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8zg1fpAmKmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ``` JS
 const getData = () => {  
     getDataFromServer('http:/api.com/users').then((users) => {  
