@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "811a46b48b24c6f5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "5b6f12c3a68bcd94",
+  "active": "811a46b48b24c6f5",
   "lastOpenFiles": [
     "Без названия.canvas",
     "React/ClassComponents/Классовые компоненты.md",
