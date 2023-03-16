@@ -11,6 +11,8 @@ _______________________________________
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F3B59K2qE2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zCeUh8kJWSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ----------------------------------------------
 
 ### Создаем промис

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/JS-TS/Micto and Macro tasks. Event loop.md",
+                "file": "JS-TS/Promise/Promise.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/JS-TS/Micto and Macro tasks. Event loop.md",
+                "file": "JS-TS/Promise/Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/JS-TS/Micto and Macro tasks. Event loop.md",
+                "file": "JS-TS/Promise/Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/JS-TS/Micto and Macro tasks. Event loop.md"
+                "file": "JS-TS/Promise/Promise.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "61e8815134cc3298",
   "lastOpenFiles": [
+    "Files/JS-TS/Micto and Macro tasks. Event loop.md",
     "JS-TS/Promise/Promise.md",
     "React/React hooks/useCallback.md",
     "React/React hooks/useMemo.md",
