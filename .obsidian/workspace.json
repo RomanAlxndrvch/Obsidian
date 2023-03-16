@@ -11,8 +11,12 @@
             "id": "61e8815134cc3298",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Files/JS-TS/Micto and Macro tasks. Event loop.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Files/JS-TS/Micto and Macro tasks. Event loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Files/JS-TS/Micto and Macro tasks. Event loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Files/JS-TS/Micto and Macro tasks. Event loop.md"
+              }
             }
           },
           {
@@ -153,6 +161,7 @@
   },
   "active": "61e8815134cc3298",
   "lastOpenFiles": [
+    "JS-TS/Promise/Promise.md",
     "React/React hooks/useCallback.md",
     "React/React hooks/useMemo.md",
     "React/React libraries/Types for Axios error in promise.md",
