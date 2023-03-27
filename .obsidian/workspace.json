@@ -11,8 +11,12 @@
             "id": "12408417c439b7f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/React hooks/useReducer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/React hooks/useReducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/React hooks/useReducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/React hooks/useReducer.md"
+              }
             }
           },
           {
@@ -153,14 +161,16 @@
   },
   "active": "12408417c439b7f1",
   "lastOpenFiles": [
+    "React/React libraries/useDispatch.md",
+    "React/Redux/useSelector.md",
+    "React/React hooks/useMemo.md",
+    "React/React hooks/useCallback.md",
     "JS-TS/Generic Function.md",
     "React/Redux/Thunk types.md",
     "React/Redux/Thunk.md",
     "React/Redux/Redux.md",
     "React/React libraries/Formik.md",
-    "React/React hooks/useCallback.md",
     "React/React.memo().md",
-    "React/React hooks/useMemo.md",
     "React/React hooks/useReducer.md",
     "JS-TS/Prototype.md",
     "Files/JS-TS/Micto and Macro tasks. Event loop.md",
