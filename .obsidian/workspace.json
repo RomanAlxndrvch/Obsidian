@@ -11,12 +11,8 @@
             "id": "811ac28338a80e62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS-TS/Async-await/Async-await.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/Async-await/Async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/Async-await/Async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS-TS/Async-await/Async-await.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,6 +153,9 @@
   },
   "active": "811ac28338a80e62",
   "lastOpenFiles": [
+    "JS-TS/Promise/catch().md",
+    "React/Redux/Thunk.md",
+    "JS-TS/Async-await/Async-await.md",
     "React/Context API/Context API.md",
     "React/Rest API.md",
     "JS-TS/Generic Function.md",
@@ -172,7 +167,6 @@
     "React/React hooks/useMemo.md",
     "React/React hooks/useCallback.md",
     "React/Redux/Thunk types.md",
-    "React/Redux/Thunk.md",
     "React/Redux/Redux.md",
     "React/React libraries/Formik.md",
     "React/React.memo().md",
@@ -181,7 +175,6 @@
     "JS-TS/Promise/Promise.md",
     "React/React libraries/Material-UI.md",
     "Tests/Unit Tests.md",
-    "JS-TS/Async-await/Async-await.md",
     "Без названия.canvas",
     "React/ClassComponents/Классовые компоненты.md",
     "JS-TS/type Enum.md",
