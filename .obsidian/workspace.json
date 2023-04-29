@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "898c159ec478d602",
+        "id": "b96a7fe81c398c14",
         "type": "tabs",
         "children": [
           {
-            "id": "6d06a8775e6ac642",
+            "id": "50fa3c6c94ef8a3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/React libraries/redux-toolkit/Redux-toolkit.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/React libraries/redux-toolkit/Redux-toolkit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/React libraries/redux-toolkit/Redux-toolkit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/React libraries/redux-toolkit/Redux-toolkit.md"
+              }
             }
           },
           {
@@ -151,8 +159,11 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "6d06a8775e6ac642",
+  "active": "50fa3c6c94ef8a3c",
   "lastOpenFiles": [
+    "React/Redux/Redux.md",
+    "React/React libraries/redux-toolkit/Redux-toolkit.md",
+    "React/React libraries/redux-toolkit",
     "JS-TS/Generic Function.md",
     "React/React libraries/Formik.md",
     "JS-TS/Promise/catch().md",
@@ -168,7 +179,6 @@
     "React/React hooks/useMemo.md",
     "React/React hooks/useCallback.md",
     "React/Redux/Thunk types.md",
-    "React/Redux/Redux.md",
     "React/React.memo().md",
     "JS-TS/Prototype.md",
     "Files/JS-TS/Micto and Macro tasks. Event loop.md",
@@ -178,7 +188,6 @@
     "Без названия.canvas",
     "React/ClassComponents/Классовые компоненты.md",
     "JS-TS/type Enum.md",
-    "JS-TS/JS-TS methods/filter().md",
-    "JS-TS/Classes,OOP.md"
+    "JS-TS/JS-TS methods/filter().md"
   ]
 }
