@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Atom",
+  "cssTheme": "Obsidian Nord",
   "interfaceFontFamily": "Microsoft JhengHei UI,Segoe UI",
   "baseFontSize": 18,
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian"
 }

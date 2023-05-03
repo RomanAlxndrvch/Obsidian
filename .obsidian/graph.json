@@ -104,6 +104,13 @@
         "a": 1,
         "rgb": 16711927
       }
+    },
+    {
+      "query": "#git",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
     }
   ],
   "collapse-display": true,
@@ -116,6 +123,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 210,
-  "scale": 0.5087618855792877,
+  "scale": 0.36288736930123267,
   "close": true
 }

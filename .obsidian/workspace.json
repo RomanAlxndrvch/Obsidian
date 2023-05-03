@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React libraries/Formik.md",
+                "file": "GIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React libraries/Formik.md",
+                "file": "GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React libraries/Formik.md",
+                "file": "GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React libraries/Formik.md"
+                "file": "GIT.md"
               }
             }
           },
@@ -161,11 +161,13 @@
   },
   "active": "50fa3c6c94ef8a3c",
   "lastOpenFiles": [
+    "JS-TS/Generic Function.md",
+    "Без названия 1.canvas",
+    "GIT.md",
+    "React/React libraries/Formik.md",
     "React/React libraries/redux-toolkit/Redux-toolkit.md",
     "React/Redux/Redux.md",
     "React/React libraries/redux-toolkit",
-    "JS-TS/Generic Function.md",
-    "React/React libraries/Formik.md",
     "JS-TS/Promise/catch().md",
     "React/Redux/Thunk.md",
     "JS-TS/Async-await/Async-await.md",
@@ -186,8 +188,6 @@
     "React/React libraries/Material-UI.md",
     "Tests/Unit Tests.md",
     "Без названия.canvas",
-    "React/ClassComponents/Классовые компоненты.md",
-    "JS-TS/type Enum.md",
-    "JS-TS/JS-TS methods/filter().md"
+    "React/ClassComponents/Классовые компоненты.md"
   ]
 }
