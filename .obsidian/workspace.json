@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ba11276921038cd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "42ba50cb9f57a55c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -159,7 +178,7 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "50fa3c6c94ef8a3c",
+  "active": "0ba11276921038cd",
   "lastOpenFiles": [
     "JS-TS/Generic Function.md",
     "Без названия 1.canvas",
