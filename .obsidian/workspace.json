@@ -23,9 +23,11 @@
             "id": "0ba11276921038cd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "GIT.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
