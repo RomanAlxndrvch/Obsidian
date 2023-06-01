@@ -18,7 +18,7 @@
       "query": "tag:#react-hooks",
       "color": {
         "a": 1,
-        "rgb": 582156
+        "rgb": 385791
       }
     },
     {
@@ -111,6 +111,13 @@
         "a": 1,
         "rgb": 14745855
       }
+    },
+    {
+      "query": "#nodejs",
+      "color": {
+        "a": 1,
+        "rgb": 9240320
+      }
     }
   ],
   "collapse-display": true,
@@ -123,6 +130,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 210,
-  "scale": 0.36288736930123267,
-  "close": true
+  "scale": 0.36288736930123283,
+  "close": false
 }

@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b96a7fe81c398c14",
+        "id": "620481dfc6e7892f",
         "type": "tabs",
         "children": [
           {
-            "id": "50fa3c6c94ef8a3c",
+            "id": "062e9651a8ccc968",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9fd1d4178926e74f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "NodeJS/NodeJS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NodeJS/NodeJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NodeJS/NodeJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NodeJS/NodeJS.md"
+              }
             }
           },
           {
@@ -170,8 +167,10 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "9fd1d4178926e74f",
+  "active": "062e9651a8ccc968",
   "lastOpenFiles": [
+    "React/React hooks/useCallback.md",
+    "NodeJS/NodeJS.md",
     "Без названия 1.canvas",
     "NodeJS",
     "Без названия.canvas",
@@ -192,7 +191,6 @@
     "React/React libraries/useDispatch.md",
     "React/Redux/useSelector.md",
     "React/React hooks/useMemo.md",
-    "React/React hooks/useCallback.md",
     "React/Redux/Thunk types.md",
     "React/React.memo().md",
     "JS-TS/Prototype.md",
