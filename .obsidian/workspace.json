@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/NodeJS.md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/NodeJS.md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/NodeJS.md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/NodeJS.md"
+                "file": "JS-TS/Async-await/Async-await.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "062e9651a8ccc968",
   "lastOpenFiles": [
-    "React/React hooks/useCallback.md",
+    "JS-TS/Promise/Promise.md",
+    "JS-TS/Async-await/Async-await.md",
     "NodeJS/NodeJS.md",
+    "React/React hooks/useCallback.md",
     "Без названия 1.canvas",
     "NodeJS",
     "Без названия.canvas",
@@ -182,7 +184,6 @@
     "React/React libraries/redux-toolkit",
     "JS-TS/Promise/catch().md",
     "React/Redux/Thunk.md",
-    "JS-TS/Async-await/Async-await.md",
     "React/Context API/Context API.md",
     "React/Rest API.md",
     "React/React libraries/Types for Axios error in promise.md",
@@ -195,7 +196,6 @@
     "React/React.memo().md",
     "JS-TS/Prototype.md",
     "Files/JS-TS/Micto and Macro tasks. Event loop.md",
-    "JS-TS/Promise/Promise.md",
     "React/React libraries/Material-UI.md",
     "Tests/Unit Tests.md",
     "React/ClassComponents/Классовые компоненты.md"

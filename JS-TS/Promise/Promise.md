@@ -1,6 +1,6 @@
 [[JS-TS]] #promise
 
-# ==Pomise==
+# ==Promise==
 [Documentation](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 
