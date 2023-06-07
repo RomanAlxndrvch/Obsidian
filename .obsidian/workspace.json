@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "939bc4aa0ff652f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,7 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "062e9651a8ccc968",
+  "active": "939bc4aa0ff652f6",
   "lastOpenFiles": [
     "JS-TS/Promise/Promise.md",
     "JS-TS/Async-await/Async-await.md",
