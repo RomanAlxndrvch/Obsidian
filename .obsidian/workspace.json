@@ -23,9 +23,11 @@
             "id": "939bc4aa0ff652f6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "JS-TS/Classes,OOP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/Async-await/Async-await.md",
+                "file": "JS-TS/Classes,OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/Async-await/Async-await.md",
+                "file": "JS-TS/Classes,OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS-TS/Async-await/Async-await.md"
+                "file": "JS-TS/Classes,OOP.md"
               }
             }
           },
