@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS-TS/Classes,OOP.md",
+                "file": "NodeJS/NodeJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-TS/Classes,OOP.md",
+                "file": "NodeJS/NodeJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-TS/Classes,OOP.md",
+                "file": "NodeJS/NodeJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS-TS/Classes,OOP.md"
+                "file": "NodeJS/NodeJS.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   },
   "active": "939bc4aa0ff652f6",
   "lastOpenFiles": [
+    "Apps-Soft-Other/Postman.md",
+    "JS-TS/Classes,OOP.md",
     "JS-TS/Promise/Promise.md",
     "JS-TS/Async-await/Async-await.md",
     "NodeJS/NodeJS.md",
@@ -209,8 +211,6 @@
     "React/React.memo().md",
     "JS-TS/Prototype.md",
     "Files/JS-TS/Micto and Macro tasks. Event loop.md",
-    "React/React libraries/Material-UI.md",
-    "Tests/Unit Tests.md",
-    "React/ClassComponents/Классовые компоненты.md"
+    "React/React libraries/Material-UI.md"
   ]
 }
