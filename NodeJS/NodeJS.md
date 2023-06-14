@@ -62,3 +62,5 @@ JSON
 В tsconfig міняєм  "outDir": "./dist"
 
 
+--------------------
+
