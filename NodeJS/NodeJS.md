@@ -64,3 +64,34 @@ JSON
 
 --------------------
 
+## Filtering
+
+#### обичний фільтр
+``` request
+127.0.0.1:8000/api/v1/tours?difficulty=easy&duration=5
+```
+
+```ts
+
+const query = await Tour.find({ ...req.query });// difficulty і duration будуть сидіти в об*єкті req.query і ми найдем всі підходящі нам тури
+
+```
+
+
+#### Адванс фільтер 
+
+``` request
+127.0.0.1:8000/api/v1/tours?difficulty=easy&duration[gte]=5
+```
+
+
+
+
+
+
+
+
+
+
+
+
