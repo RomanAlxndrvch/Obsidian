@@ -65,8 +65,22 @@ JSON
 --------------------
 
 ## Filtering
+#### 2 варіанта фільтрації 
+```ts
+/*const tours = await Tour.find({  
+difficulty: req.query.difficulty ? req.query.difficulty as string : "",  
+duration: req.query.duration ? +req.query.duration : undefined  
+}); */*
 
-#### обичний фільтр
+
+const query = Tour.find({ ...req.query });
+  //-----------------------------------
+ const tours = await Tour.find()  
+.where("difficulty").equals("easy")  
+.where("duration").equals(5);
+```
+
+#### обичний фільтр (95)
 ``` request
 127.0.0.1:8000/api/v1/tours?difficulty=easy&duration=5
 ```
@@ -78,14 +92,23 @@ const query = await Tour.find({ ...req.query });// difficulty і duration буд
 ```
 
 
-#### Адванс фільтер 
+#### Адванс фільтер (96)
 
 ``` request
 127.0.0.1:8000/api/v1/tours?difficulty=easy&duration[gte]=5
 ```
 
 
+```ts
+const queryObj = { ...req.query };  
+const excludeFields = ["page", "sort", "limit", "fields"];  
+excludeFields.forEach(el => delete queryObj[el]);
 
+const queryStr = JSON.stringify(queryObj).replace(/\b(gte|gt|lte|lt)\b/g, match => `$${match}`);  
+   
+
+const query = Tour.find(JSON.parse(queryStr));
+```
 
 
 
