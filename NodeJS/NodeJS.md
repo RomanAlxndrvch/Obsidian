@@ -134,4 +134,33 @@ query = query.sort((req.query.sort as string).split(",").join());
 
 
 
+#### Field limiting
 
+``` request
+127.0.0.1:8000/api/v1/tours?fields=name,duration,difficulty,price
+```
+
+```ts
+let query = Tour.find(JSON.parse(queryStr));
+
+
+if (req.query.fields) {  
+console.log(req.query.fields);  
+const fields = (req.query.fields as string).split(",").join(" ");  
+query = query.select(fields);  
+}  
+else {  
+query = query.select("-__v");  
+}
+
+
+const tours = await query;
+
+res.status(200).json({  
+status: "success",  
+tourAmount: tours.length,  
+data: {  
+tours  
+	}  
+});
+```
