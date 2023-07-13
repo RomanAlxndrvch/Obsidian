@@ -112,8 +112,25 @@ const query = Tour.find(JSON.parse(queryStr));
 
 
 
+#### Sorting (97)
 
+``` request
+127.0.0.1:8000/api/v1/tours?sort=price,ratingsAverage
+```
 
+```ts
+
+const queryObj = { ...req.query };  
+const excludeFields = ["page", "sort", "limit", "fields"];  
+excludeFields.forEach(el => delete queryObj[el]);  
+  
+const queryStr = JSON.stringify(queryObj).replace(/\b(gte|gt|lte|lt)\b/g, match => `$${match}`);
+let query = Tour.find(JSON.parse(queryStr));  
+
+if (req.query.sort) {  
+query = query.sort((req.query.sort as string).split(",").join());
+}
+```
 
 
 
