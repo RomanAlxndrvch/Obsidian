@@ -134,7 +134,7 @@ query = query.sort((req.query.sort as string).split(",").join());
 
 
 
-#### Field limiting
+#### Field limiting(98)
 
 ``` request
 127.0.0.1:8000/api/v1/tours?fields=name,duration,difficulty,price
@@ -163,4 +163,15 @@ data: {
 tours  
 	}  
 });
+```
+
+
+#### Pagination (99)
+
+```request
+127.0.0.1:8000/api/v1/tours?page=2&limit=10
+```
+
+```ts
+
 ```
