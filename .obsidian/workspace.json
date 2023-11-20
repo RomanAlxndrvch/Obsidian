@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94ec3f3b61e00d0c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +190,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "939bc4aa0ff652f6",
+  "active": "94ec3f3b61e00d0c",
   "lastOpenFiles": [
     "NodeJS/NodeJS.md",
     "React/React libraries/axios.md",
