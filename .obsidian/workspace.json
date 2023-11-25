@@ -23,28 +23,12 @@
             "id": "939bc4aa0ff652f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Redux/Thunk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d82481b6b17443f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Redux/createAsyncThunk.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux/createAsyncThunk.md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux/createAsyncThunk.md",
+                "file": "JS-TS/Async-await/Async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redux/createAsyncThunk.md"
+                "file": "JS-TS/Async-await/Async-await.md"
               }
             }
           },
@@ -192,10 +176,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d82481b6b17443f8",
+  "active": "939bc4aa0ff652f6",
   "lastOpenFiles": [
-    "React/Redux/Thunk types.md",
+    "React/Redux/Thunk.md",
+    "Files/Util functions for normal imports..md",
     "React/Redux/createAsyncThunk.md",
+    "React/Redux/Thunk types.md",
     "NodeJS/NodeJS.md",
     "React/React libraries/axios.md",
     "Apps-Soft-Other/Postman.md",
@@ -213,7 +199,6 @@
     "React/Redux/Redux.md",
     "React/React libraries/redux-toolkit",
     "JS-TS/Promise/catch().md",
-    "React/Redux/Thunk.md",
     "React/Context API/Context API.md",
     "React/Rest API.md",
     "React/React libraries/Types for Axios error in promise.md",
@@ -222,7 +207,6 @@
     "React/Redux/useSelector.md",
     "React/React hooks/useMemo.md",
     "React/React.memo().md",
-    "JS-TS/Prototype.md",
-    "Files/JS-TS/Micto and Macro tasks. Event loop.md"
+    "JS-TS/Prototype.md"
   ]
 }
